@@ -1,0 +1,460 @@
+11-1010	Chief Executives
+11-1020	General and Operations Managers
+11-1030	Legislators
+11-2010	Advertising and Promotions Managers
+11-2020	Marketing and Sales Managers
+11-2030	Public Relations and Fundraising Managers
+11-3010	Administrative Services Managers
+11-3020	Computer and Information Systems Managers
+11-3030	Financial Managers
+11-3050	Industrial Production Managers
+11-3060	Purchasing Managers
+11-3070	"Transportation, Storage, and Distribution Managers"
+11-3110	Compensation and Benefits Managers
+11-3120	Human Resources Managers
+11-3130	Training and Development Managers
+11-9010	"Farmers, Ranchers, and Other Agricultural Managers"
+11-9020	Construction Managers
+11-9030	Education Administrators
+11-9040	Architectural and Engineering Managers
+11-9050	Food Service Managers
+11-9060	Funeral Service Managers
+11-9070	Gaming Managers
+11-9080	Lodging Managers
+11-9110	Medical and Health Services Managers
+11-9120	Natural Sciences Managers
+11-9130	Postmasters and Mail Superintendents
+11-9140	"Property, Real Estate, and Community Association Managers"
+11-9150	Social and Community Service Managers
+11-9160	Emergency Management Directors
+11-9190	Miscellaneous Managers
+13-1010	"Agents and Business Managers of Artists, Performers, and Athletes"
+13-1020	Buyers and Purchasing Agents
+13-1030	"Claims Adjusters, Appraisers, Examiners, and Investigators"
+13-1040	Compliance Officers
+13-1050	Cost Estimators
+13-1070	Human Resources Workers
+13-1080	Logisticians
+13-1110	Management Analysts
+13-1120	"Meeting, Convention, and Event Planners"
+13-1130	Fundraisers
+13-1140	"Compensation, Benefits, and Job Analysis Specialists"
+13-1150	Training and Development Specialists
+13-1160	Market Research Analysts and Marketing Specialists
+13-1190	Miscellaneous Business Operations Specialists
+13-2010	Accountants and Auditors
+13-2020	Appraisers and Assessors of Real Estate
+13-2030	Budget Analysts
+13-2040	Credit Analysts
+13-2050	Financial Analysts and Advisors
+13-2060	Financial Examiners
+13-2070	Credit Counselors and Loan Officers
+13-2080	"Tax Examiners, Collectors and Preparers, and Revenue Agents"
+13-2090	Miscellaneous Financial Specialists
+15-1110	Computer and Information Research Scientists
+15-1120	Computer and Information Analysts
+15-1130	Software Developers and Programmers
+15-1140	Database and Systems Administrators and Network Architects
+15-1150	Computer Support Specialists
+15-1190	Miscellaneous Computer Occupations
+15-2010	Actuaries
+15-2020	Mathematicians
+15-2030	Operations Research Analysts
+15-2040	Statisticians
+15-2090	Miscellaneous Mathematical Science Occupations
+17-1010	"Architects, Except Naval"
+17-1020	"Surveyors, Cartographers, and Photogrammetrists"
+17-2010	Aerospace Engineers
+17-2020	Agricultural Engineers
+17-2030	Biomedical Engineers
+17-2040	Chemical Engineers
+17-2050	Civil Engineers
+17-2060	Computer Hardware Engineers
+17-2070	Electrical and Electronics Engineers
+17-2080	Environmental Engineers
+17-2110	"Industrial Engineers, Including Health and Safety"
+17-2120	Marine Engineers and Naval Architects
+17-2130	Materials Engineers
+17-2140	Mechanical Engineers
+17-2150	"Mining and Geological Engineers, Including Mining Safety Engineers"
+17-2160	Nuclear Engineers
+17-2170	Petroleum Engineers
+17-2190	Miscellaneous Engineers
+17-3010	Drafters
+17-3020	"Engineering Technicians, Except Drafters"
+17-3030	Surveying and Mapping Technicians
+19-1010	Agricultural and Food Scientists
+19-1020	Biological Scientists
+19-1030	Conservation Scientists and Foresters
+19-1040	Medical Scientists
+19-1090	Miscellaneous Life Scientists
+19-2010	Astronomers and Physicists
+19-2020	Atmospheric and Space Scientists
+19-2030	Chemists and Materials Scientists
+19-2040	Environmental Scientists and Geoscientists
+19-2090	Miscellaneous Physical Scientists
+19-3010	Economists
+19-3020	Survey Researchers
+19-3030	Psychologists
+19-3040	Sociologists
+19-3050	Urban and Regional Planners
+19-3090	Miscellaneous Social Scientists and Related Workers
+19-4010	Agricultural and Food Science Technicians
+19-4020	Biological Technicians
+19-4030	Chemical Technicians
+19-4040	Geological and Petroleum Technicians
+19-4050	Nuclear Technicians
+19-4060	Social Science Research Assistants
+19-4090	"Miscellaneous Life, Physical, and Social Science Technicians"
+21-1010	Counselors
+21-1020	Social Workers
+21-1090	Miscellaneous Community and Social Service Specialists
+21-2010	Clergy
+21-2020	"Directors, Religious Activities and Education"
+21-2090	Miscellaneous Religious Workers
+23-1010	Lawyers and Judicial Law Clerks
+23-1020	"Judges, Magistrates, and Other Judicial Workers"
+23-2010	Paralegals and Legal Assistants
+23-2090	Miscellaneous Legal Support Workers
+25-1010	"Business Teachers, Postsecondary"
+25-1020	"Math and Computer Teachers, Postsecondary"
+25-1030	"Engineering and Architecture Teachers, Postsecondary"
+25-1040	"Life Sciences Teachers, Postsecondary"
+25-1050	"Physical Sciences Teachers, Postsecondary"
+25-1060	"Social Sciences Teachers, Postsecondary"
+25-1070	"Health Teachers, Postsecondary"
+25-1080	"Education and Library Science Teachers, Postsecondary"
+25-1110	"Law, Criminal Justice, and Social Work Teachers, Postsecondary"
+25-1120	"Arts, Communications, and Humanities Teachers, Postsecondary"
+25-1190	Miscellaneous Postsecondary Teachers
+25-2010	Preschool and Kindergarten Teachers
+25-2020	Elementary and Middle School Teachers
+25-2030	Secondary School Teachers
+25-2050	Special Education Teachers
+25-3010	Adult Basic and Secondary Education and Literacy Teachers and Instructors 
+25-3020	Self-Enrichment Education Teachers
+25-3090	Miscellaneous Teachers and Instructors
+25-4010	"Archivists, Curators, and Museum Technicians"
+25-4020	Librarians
+25-4030	Library Technicians
+25-9010	Audio-Visual and Multimedia Collections Specialists
+25-9020	Farm and Home Management Advisors
+25-9030	Instructional Coordinators
+25-9040	Teacher Assistants
+25-9090	"Miscellaneous Education, Training, and Library Workers"
+27-1010	Artists and Related Workers
+27-1020	Designers
+27-2010	"Actors, Producers, and Directors"
+27-2020	"Athletes, Coaches, Umpires, and Related Workers"
+27-2030	Dancers and Choreographers
+27-2040	"Musicians, Singers, and Related Workers"
+27-2090	"Miscellaneous Entertainers and Performers, Sports and Related Workers"
+27-3010	Announcers
+27-3020	"News Analysts, Reporters and Correspondents"
+27-3030	Public Relations Specialists
+27-3040	Writers and Editors
+27-3090	Miscellaneous Media and Communication Workers
+27-4010	Broadcast and Sound Engineering Technicians and Radio Operators
+27-4020	Photographers
+27-4030	"Television, Video, and Motion Picture Camera Operators and Editors"
+27-4090	Miscellaneous Media and Communication Equipment Workers
+29-1010	Chiropractors
+29-1020	Dentists
+29-1030	Dietitians and Nutritionists
+29-1040	Optometrists
+29-1050	Pharmacists
+29-1060	Physicians and Surgeons
+29-1070	Physician Assistants
+29-1080	Podiatrists
+29-1120	Therapists
+29-1130	Veterinarians
+29-1150	Nurse Anesthetists
+29-1160	Nurse Midwives
+29-1170	Nurse Practitioners
+29-1180	Audiologists
+29-1190	Miscellaneous Health Diagnosing and Treating Practitioners
+29-2010	Clinical Laboratory Technologists and Technicians
+29-2020	Dental Hygienists
+29-2030	Diagnostic Related Technologists and Technicians
+29-2040	Emergency Medical Technicians and Paramedics
+29-2050	Health Practitioner Support Technologists and Technicians
+29-2060	Licensed Practical and Licensed Vocational Nurses
+29-2070	Medical Records and Health Information Technicians
+29-2080	"Opticians, Dispensing"
+29-2090	Miscellaneous Health Technologists and Technicians
+29-9010	Occupational Health and Safety Specialists and Technicians
+29-9090	Miscellaneous Health Practitioners and Technical Workers
+31-1010	"Nursing, Psychiatric, and Home Health Aides"
+31-2010	Occupational Therapy Assistants and Aides
+31-2020	Physical Therapist Assistants and Aides
+31-9010	Massage Therapists
+31-9090	Miscellaneous Healthcare Support Occupations
+33-1010	First-Line Supervisors of Law Enforcement Workers
+33-1020	First-Line Supervisors of Fire Fighting and Prevention Workers
+33-1090	"Miscellaneous First-Line Supervisors, Protective Service Workers"
+33-2010	Firefighters
+33-2020	Fire Inspectors
+33-3010	"Bailiffs, Correctional Officers, and Jailers"
+33-3020	Detectives and Criminal Investigators
+33-3030	Fish and Game Wardens
+33-3040	Parking Enforcement Workers
+33-3050	Police Officers
+33-9010	Animal Control Workers
+33-9020	Private Detectives and Investigators
+33-9030	Security Guards and Gaming Surveillance Officers
+33-9090	Miscellaneous Protective Service Workers
+35-1010	Supervisors of Food Preparation and Serving Workers
+35-2010	Cooks
+35-2020	Food Preparation Workers
+35-3010	Bartenders
+35-3020	Fast Food and Counter Workers
+35-3030	Waiters and Waitresses
+35-3040	"Food Servers, Nonrestaurant"
+35-9010	Dining Room and Cafeteria Attendants and Bartender Helpers
+35-9020	Dishwashers
+35-9030	"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+35-9090	Miscellaneous Food Preparation and Serving Related Workers
+37-1010	First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers
+37-2010	Building Cleaning Workers
+37-2020	Pest Control Workers
+37-3010	Grounds Maintenance Workers
+39-1010	First-Line Supervisors of Gaming Workers
+39-1020	First-Line Supervisors of Personal Service Workers
+39-2010	Animal Trainers
+39-2020	Nonfarm Animal Caretakers
+39-3010	Gaming Services Workers
+39-3020	Motion Picture Projectionists
+39-3030	"Ushers, Lobby Attendants, and Ticket Takers"
+39-3090	Miscellaneous Entertainment Attendants and Related Workers
+39-4010	Embalmers
+39-4020	Funeral Attendants
+39-4030	"Morticians, Undertakers, and Funeral Directors"
+39-5010	"Barbers, Hairdressers, Hairstylists and Cosmetologists"
+39-5090	Miscellaneous Personal Appearance Workers
+39-6010	"Baggage Porters, Bellhops, and Concierges"
+39-7010	Tour and Travel Guides
+39-9010	Childcare Workers
+39-9020	Personal Care Aides
+39-9030	Recreation and Fitness Workers
+39-9040	Residential Advisors
+39-9090	Miscellaneous Personal Care and Service Workers
+41-1010	First-Line Supervisors of Sales Workers
+41-2010	Cashiers
+41-2020	Counter and Rental Clerks and Parts Salespersons
+41-2030	Retail Salespersons
+41-3010	Advertising Sales Agents
+41-3020	Insurance Sales Agents
+41-3030	"Securities, Commodities, and Financial Services Sales Agents"
+41-3040	Travel Agents
+41-3090	"Miscellaneous Sales Representatives, Services"
+41-4010	"Sales Representatives, Wholesale and Manufacturing"
+41-9010	"Models, Demonstrators, and Product Promoters"
+41-9020	Real Estate Brokers and Sales Agents
+41-9030	Sales Engineers
+41-9040	Telemarketers
+41-9090	Miscellaneous Sales and Related Workers
+43-1010	First-Line Supervisors of Office and Administrative Support Workers
+43-2010	"Switchboard Operators, Including Answering Service"
+43-2020	Telephone Operators
+43-2090	Miscellaneous Communications Equipment Operators
+43-3010	Bill and Account Collectors
+43-3020	Billing and Posting Clerks
+43-3030	"Bookkeeping, Accounting, and Auditing Clerks"
+43-3040	Gaming Cage Workers
+43-3050	Payroll and Timekeeping Clerks
+43-3060	Procurement Clerks
+43-3070	Tellers
+43-3090	Miscellaneous Financial Clerks
+43-4010	Brokerage Clerks
+43-4020	Correspondence Clerks
+43-4030	"Court, Municipal, and License Clerks"
+43-4040	"Credit Authorizers, Checkers, and Clerks"
+43-4050	Customer Service Representatives
+43-4060	"Eligibility Interviewers, Government Programs"
+43-4070	File Clerks
+43-4080	"Hotel, Motel, and Resort Desk Clerks"
+43-4110	"Interviewers, Except Eligibility and Loan"
+43-4120	"Library Assistants, Clerical"
+43-4130	Loan Interviewers and Clerks
+43-4140	New Accounts Clerks
+43-4150	Order Clerks
+43-4160	"Human Resources Assistants, Except Payroll and Timekeeping"
+43-4170	Receptionists and Information Clerks
+43-4180	Reservation and Transportation Ticket Agents and Travel Clerks
+43-4190	Miscellaneous Information and Record Clerks
+43-5010	Cargo and Freight Agents
+43-5020	Couriers and Messengers
+43-5030	Dispatchers
+43-5040	"Meter Readers, Utilities"
+43-5050	Postal Service Workers
+43-5060	"Production, Planning, and Expediting Clerks"
+43-5070	"Shipping, Receiving, and Traffic Clerks"
+43-5080	Stock Clerks and Order Fillers
+43-5110	"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+43-6010	Secretaries and Administrative Assistants
+43-9010	Computer Operators
+43-9020	Data Entry and Information Processing Workers
+43-9030	Desktop Publishers
+43-9040	Insurance Claims and Policy Processing Clerks
+43-9050	"Mail Clerks and Mail Machine Operators, Except Postal Service"
+43-9060	"Office Clerks, General"
+43-9070	"Office Machine Operators, Except Computer"
+43-9080	Proofreaders and Copy Markers
+43-9110	Statistical Assistants
+43-9190	Miscellaneous Office and Administrative Support Workers
+45-1010	"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+45-2010	Agricultural Inspectors
+45-2020	Animal Breeders
+45-2040	"Graders and Sorters, Agricultural Products"
+45-2090	Miscellaneous Agricultural Workers
+45-3010	Fishers and Related Fishing Workers
+45-3020	Hunters and Trappers
+45-4010	Forest and Conservation Workers
+45-4020	Logging Workers
+47-1010	First-Line Supervisors of Construction Trades and Extraction Workers
+47-2010	Boilermakers
+47-2020	"Brickmasons, Blockmasons, and Stonemasons"
+47-2030	Carpenters
+47-2040	"Carpet, Floor, and Tile Installers and Finishers"
+47-2050	"Cement Masons, Concrete Finishers, and Terrazzo Workers"
+47-2060	Construction Laborers
+47-2070	Construction Equipment Operators
+47-2080	"Drywall Installers, Ceiling Tile Installers, and Tapers"
+47-2110	Electricians
+47-2120	Glaziers
+47-2130	Insulation Workers
+47-2140	Painters and Paperhangers
+47-2150	"Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+47-2160	Plasterers and Stucco Masons
+47-2170	Reinforcing Iron and Rebar Workers
+47-2180	Roofers
+47-2210	Sheet Metal Workers
+47-2220	Structural Iron and Steel Workers
+47-2230	Solar Photovoltaic Installers
+47-3010	"Helpers, Construction Trades"
+47-4010	Construction and Building Inspectors
+47-4020	Elevator Installers and Repairers
+47-4030	Fence Erectors
+47-4040	Hazardous Materials Removal Workers
+47-4050	Highway Maintenance Workers
+47-4060	Rail-Track Laying and Maintenance Equipment Operators
+47-4070	Septic Tank Servicers and Sewer Pipe Cleaners
+47-4090	Miscellaneous Construction and Related Workers
+47-5010	"Derrick, Rotary Drill, and Service Unit Operators, Oil, Gas, and Mining"
+47-5020	"Earth Drillers, Except Oil and Gas"
+47-5030	"Explosives Workers, Ordnance Handling Experts, and Blasters"
+47-5040	Mining Machine Operators
+47-5050	"Rock Splitters, Quarry"
+47-5060	"Roof Bolters, Mining"
+47-5070	"Roustabouts, Oil and Gas"
+47-5080	Helpers--Extraction Workers
+47-5090	Miscellaneous Extraction Workers
+49-1010	"First-Line Supervisors of Mechanics, Installers, and Repairers"
+49-2010	"Computer, Automated Teller, and Office Machine Repairers"
+49-2020	Radio and Telecommunications Equipment Installers and Repairers
+49-2090	"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers"
+49-3010	Aircraft Mechanics and Service Technicians
+49-3020	Automotive Technicians and Repairers
+49-3030	Bus and Truck Mechanics and Diesel Engine Specialists
+49-3040	Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics
+49-3050	Small Engine Mechanics
+49-3090	"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers"
+49-9010	Control and Valve Installers and Repairers
+49-9020	"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+49-9030	Home Appliance Repairers
+49-9040	"Industrial Machinery Installation, Repair, and Maintenance Workers"
+49-9050	Line Installers and Repairers
+49-9060	Precision Instrument and Equipment Repairers
+49-9070	"Maintenance and Repair Workers, General"
+49-9080	Wind Turbine Service Technicians
+49-9090	"Miscellaneous Installation, Maintenance, and Repair Workers"
+51-1010	First-Line Supervisors of Production and Operating Workers
+51-2010	"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+51-2020	"Electrical, Electronics, and Electromechanical Assemblers"
+51-2030	Engine and Other Machine Assemblers
+51-2040	Structural Metal Fabricators and Fitters
+51-2090	Miscellaneous Assemblers and Fabricators
+51-3010	Bakers
+51-3020	"Butchers and Other Meat, Poultry, and Fish Processing Workers"
+51-3090	Miscellaneous Food Processing Workers
+51-4010	Computer Control Programmers and Operators
+51-4020	"Forming Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4030	"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic"
+51-4040	Machinists
+51-4050	"Metal Furnace Operators, Tenders, Pourers, and Casters"
+51-4060	"Model Makers and Patternmakers, Metal and Plastic"
+51-4070	"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4080	"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4110	Tool and Die Makers
+51-4120	"Welding, Soldering, and Brazing Workers"
+51-4190	Miscellaneous Metal Workers and Plastic Workers
+51-5110	Printing Workers
+51-6010	Laundry and Dry-Cleaning Workers
+51-6020	"Pressers, Textile, Garment, and Related Materials"
+51-6030	Sewing Machine Operators
+51-6040	Shoe and Leather Workers
+51-6050	"Tailors, Dressmakers, and Sewers"
+51-6060	"Textile Machine Setters, Operators, and Tenders"
+51-6090	"Miscellaneous Textile, Apparel, and Furnishings Workers"
+51-7010	Cabinetmakers and Bench Carpenters
+51-7020	Furniture Finishers
+51-7030	"Model Makers and Patternmakers, Wood"
+51-7040	"Woodworking Machine Setters, Operators, and Tenders"
+51-7090	Miscellaneous Woodworkers
+51-8010	"Power Plant Operators, Distributors, and Dispatchers"
+51-8020	Stationary Engineers and Boiler Operators
+51-8030	Water and Wastewater Treatment Plant and System Operators
+51-8090	Miscellaneous Plant and System Operators
+51-9010	"Chemical Processing Machine Setters, Operators, and Tenders"
+51-9020	"Crushing, Grinding, Polishing, Mixing, and Blending Workers"
+51-9030	Cutting Workers
+51-9040	"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+51-9050	"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+51-9060	"Inspectors, Testers, Sorters, Samplers, and Weighers"
+51-9070	Jewelers and Precious Stone and Metal Workers
+51-9080	"Medical, Dental, and Ophthalmic Laboratory Technicians"
+51-9110	Packaging and Filling Machine Operators and Tenders
+51-9120	Painting Workers
+51-9140	Semiconductor Processors
+51-9150	Photographic Process Workers and Processing Machine Operators
+51-9190	Miscellaneous Production Workers
+53-1010	Aircraft Cargo Handling Supervisors
+53-1020	"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+53-1030	First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+53-2010	Aircraft Pilots and Flight Engineers
+53-2020	Air Traffic Controllers and Airfield Operations Specialists
+53-2030	Flight Attendants
+53-3010	"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+53-3020	Bus Drivers
+53-3030	Driver/Sales Workers and Truck Drivers
+53-3040	Taxi Drivers and Chauffeurs
+53-3090	Miscellaneous Motor Vehicle Operators
+53-4010	Locomotive Engineers and Operators
+53-4020	"Railroad Brake, Signal, and Switch Operators"
+53-4030	Railroad Conductors and Yardmasters
+53-4040	Subway and Streetcar Operators
+53-4090	Miscellaneous Rail Transportation Workers
+53-5010	Sailors and Marine Oilers
+53-5020	Ship and Boat Captains and Operators
+53-5030	Ship Engineers
+53-6010	Bridge and Lock Tenders
+53-6020	Parking Lot Attendants
+53-6030	Automotive and Watercraft Service Attendants
+53-6040	Traffic Technicians
+53-6050	Transportation Inspectors
+53-6060	"Transportation Attendants, Except Flight Attendants"
+53-6090	Miscellaneous Transportation Workers
+53-7010	Conveyor Operators and Tenders
+53-7020	Crane and Tower Operators
+53-7030	"Dredge, Excavating, and Loading Machine Operators"
+53-7040	Hoist and Winch Operators
+53-7050	Industrial Truck and Tractor Operators
+53-7060	"Laborers and Material Movers, Hand"
+53-7070	Pumping Station Operators
+53-7080	Refuse and Recyclable Material Collectors
+53-7110	Mine Shuttle Car Operators
+53-7120	"Tank Car, Truck, and Ship Loaders"
+53-7190	Miscellaneous Material Moving Workers
+55-1010	Military Officer Special and Tactical Operations Leaders
+55-2010	First-Line Enlisted Military Supervisors
+55-3010	Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members

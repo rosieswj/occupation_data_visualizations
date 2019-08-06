@@ -1,0 +1,131 @@
+3	Technicians and associate professionals	35	Information and communications technicians	351	Information and communications technology operations and user support technicians
+2	Professionals	23	Teaching professionals	231	University and higher education teachers
+3	Technicians and associate professionals	35	Information and communications technicians	352	Telecommunications and broadcasting technicians
+1	Managers	11	Chief executives, senior officials and legislators	111	Legislators and senior officials
+2	Professionals	23	Teaching professionals	232	Vocational education teachers
+1	Managers	11	Chief executives, senior officials and legislators	112	Managing directors and chief executives
+2	Professionals	23	Teaching professionals	233	Secondary education teachers
+2	Professionals	23	Teaching professionals	234	Primary school and early childhood teachers
+7	Craft and related trades workers	75	Food processing, wood working, garment and other craft and related trades workers	751	Food processing and related trades workers
+2	Professionals	23	Teaching professionals	235	Other teaching professionals
+6	Skilled agricultural, forestry and fishery workers	63	Subsistence farmers, fishers, hunters and gatherers	631	Subsistence crop farmers
+7	Craft and related trades workers	75	Food processing, wood working, garment and other craft and related trades workers	752	Wood treaters, cabinet-makers and related trades workers
+5	Service and sales workers	51	Personal service workers	511	Travel attendants, conductors and guides
+6	Skilled agricultural, forestry and fishery workers	63	Subsistence farmers, fishers, hunters and gatherers	632	Subsistence livestock farmers
+7	Craft and related trades workers	75	Food processing, wood working, garment and other craft and related trades workers	753	Garment and related trades workers
+5	Service and sales workers	51	Personal service workers	512	Cooks
+6	Skilled agricultural, forestry and fishery workers	63	Subsistence farmers, fishers, hunters and gatherers	633	Subsistence mixed crop and livestock farmers
+7	Craft and related trades workers	75	Food processing, wood working, garment and other craft and related trades workers	754	Other craft and related workers
+5	Service and sales workers	51	Personal service workers	513	Waiters and bartenders
+6	Skilled agricultural, forestry and fishery workers	63	Subsistence farmers, fishers, hunters and gatherers	634	Subsistence fishers, hunters, trappers and gatherers
+5	Service and sales workers	51	Personal service workers	514	Hairdressers, beauticians and related workers
+5	Service and sales workers	51	Personal service workers	515	Building and housekeeping supervisors
+9	Elementary occupations	91	Cleaners and helpers	911	Domestic, hotel and office cleaners and helpers
+5	Service and sales workers	51	Personal service workers	516	Other personal services workers
+9	Elementary occupations	91	Cleaners and helpers	912	Vehicle, window, laundry and other hand cleaning workers
+2	Professionals	24	Business and administration professionals	241	Finance professionals
+1	Managers	12	Administrative and commercial managers	121	Business services and administration managers
+2	Professionals	24	Business and administration professionals	242	Administration professionals
+1	Managers	12	Administrative and commercial managers	122	Sales, marketing and development managers
+2	Professionals	24	Business and administration professionals	243	Sales, marketing and public relations professionals
+5	Service and sales workers	52	Sales workers	521	Street and market salespersons
+5	Service and sales workers	52	Sales workers	522	Shop salespersons
+5	Service and sales workers	52	Sales workers	523	Cashiers and ticket clerks
+5	Service and sales workers	52	Sales workers	524	Other sales workers
+9	Elementary occupations	92	Agricultural, forestry and fishery labourers	921	Agricultural, forestry and fishery labourers
+2	Professionals	25	Information and communications technology professionals	251	Software and applications developers and analysts
+1	Managers	13	Production and specialized services managers	131	Production managers in agriculture, forestry and fisheries
+2	Professionals	25	Information and communications technology professionals	252	Database and network professionals
+1	Managers	13	Production and specialized services managers	132	Manufacturing, mining, construction, and distribution managers
+0	Armed forces occupations	01	Commissioned armed forces officers	011	Commissioned armed forces officers
+1	Managers	13	Production and specialized services managers	133	Information and communications technology service managers
+1	Managers	13	Production and specialized services managers	134	Professional services managers
+5	Service and sales workers	53	Personal care workers	531	Child care workers and teachers' aides
+4	Clerical support workers	41	General and keyboard clerks	411	General office clerks
+5	Service and sales workers	53	Personal care workers	532	Personal care workers in health services
+4	Clerical support workers	41	General and keyboard clerks	412	Secretaries (general)
+4	Clerical support workers	41	General and keyboard clerks	413	Keyboard operators
+9	Elementary occupations	93	Labourers in mining, construction, manufacturing and transport	931	Mining and construction labourers
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	811	Mining and mineral processing plant operators
+9	Elementary occupations	93	Labourers in mining, construction, manufacturing and transport	932	Manufacturing labourers
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	812	Metal processing and finishing plant operators
+9	Elementary occupations	93	Labourers in mining, construction, manufacturing and transport	933	Transport and storage labourers
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	813	Chemical and photographic products plant and machine operators
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	814	Rubber, plastic and paper products machine operators
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	815	Textile, fur and leather products machine operators
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	816	Food and related products machine operators
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	817	Wood processing and papermaking plant operators
+8	Plant and machine operators and assemblers	81	Stationary plant and machine operators	818	Other stationary plant and machine operators
+2	Professionals	26	Legal, social and cultural professionals	261	Legal professionals
+1	Managers	14	Hospitality, retail and other services managers	141	Hotel and restaurant managers
+2	Professionals	26	Legal, social and cultural professionals	262	Librarians, archivists and curators
+1	Managers	14	Hospitality, retail and other services managers	142	Retail and wholesale trade managers
+2	Professionals	26	Legal, social and cultural professionals	263	Social and religious professionals
+0	Armed forces occupations	02	Non-commissioned armed forces officers	021	Non-commissioned armed forces officers
+1	Managers	14	Hospitality, retail and other services managers	143	Other services managers
+2	Professionals	26	Legal, social and cultural professionals	264	Authors, journalists and linguists
+2	Professionals	26	Legal, social and cultural professionals	265	Creative and performing artists
+5	Service and sales workers	54	Protective services workers	541	Protective services workers
+4	Clerical support workers	42	Customer services clerks	421	Tellers, money collectors and related clerks
+4	Clerical support workers	42	Customer services clerks	422	Client information workers
+9	Elementary occupations	94	Food preparation assistants	941	Food preparation assistants
+8	Plant and machine operators and assemblers	82	Assemblers	821	Assemblers
+0	Armed forces occupations	03	Armed forces occupations, other ranks	031	Armed forces occupations, other ranks
+4	Clerical support workers	43	Numerical and material recording clerks	431	Numerical clerks
+3	Technicians and associate professionals	31	Science and engineering associate professionals	311	Physical and engineering science technicians
+4	Clerical support workers	43	Numerical and material recording clerks	432	Material-recording and transport clerks
+3	Technicians and associate professionals	31	Science and engineering associate professionals	312	Mining, manufacturing and construction supervisors
+3	Technicians and associate professionals	31	Science and engineering associate professionals	313	Process control technicians
+9	Elementary occupations	95	Street and related sales and service workers	951	Street and related service workers
+3	Technicians and associate professionals	31	Science and engineering associate professionals	314	Life science technicians and related associate professionals
+8	Plant and machine operators and assemblers	83	Drivers and mobile plant operators	831	Locomotive engine drivers and related workers
+9	Elementary occupations	95	Street and related sales and service workers	952	Street vendors (excluding food)
+3	Technicians and associate professionals	31	Science and engineering associate professionals	315	Ship and aircraft controllers and technicians
+7	Craft and related trades workers	71	Building and related trades workers, excluding electricians	711	Building frame and related trades workers
+8	Plant and machine operators and assemblers	83	Drivers and mobile plant operators	832	Car, van and motorcycle drivers
+7	Craft and related trades workers	71	Building and related trades workers, excluding electricians	712	Building finishers and related trades workers
+8	Plant and machine operators and assemblers	83	Drivers and mobile plant operators	833	Heavy truck and bus drivers
+7	Craft and related trades workers	71	Building and related trades workers, excluding electricians	713	Painters, building structure cleaners and related trades workers
+8	Plant and machine operators and assemblers	83	Drivers and mobile plant operators	834	Mobile plant operators
+8	Plant and machine operators and assemblers	83	Drivers and mobile plant operators	835	Ships' deck crews and related workers
+4	Clerical support workers	44	Other clerical support workers	441	Other clerical support workers
+3	Technicians and associate professionals	32	Health associate professionals	321	Medical and pharmaceutical technicians
+3	Technicians and associate professionals	32	Health associate professionals	322	Nursing and midwifery associate professionals
+3	Technicians and associate professionals	32	Health associate professionals	323	Traditional and complementary medicine associate professionals
+9	Elementary occupations	96	Refuse workers and other elementary workers	961	Refuse workers
+3	Technicians and associate professionals	32	Health associate professionals	324	Veterinary technicians and assistants
+9	Elementary occupations	96	Refuse workers and other elementary workers	962	Other elementary workers
+3	Technicians and associate professionals	32	Health associate professionals	325	Other health associate professionals
+7	Craft and related trades workers	72	Metal, machinery and related trades workers	721	Sheet and structural metal workers, moulders and welders, and related workers
+7	Craft and related trades workers	72	Metal, machinery and related trades workers	722	Blacksmiths, toolmakers and related trades workers
+7	Craft and related trades workers	72	Metal, machinery and related trades workers	723	Machinery mechanics and repairers
+3	Technicians and associate professionals	33	Business and administration associate professionals	331	Financial and mathematical associate professionals
+2	Professionals	21	Science and engineering professionals	211	Physical and earth science professionals
+3	Technicians and associate professionals	33	Business and administration associate professionals	332	Sales and purchasing agents and brokers
+2	Professionals	21	Science and engineering professionals	212	Mathematicians, actuaries and statisticians
+3	Technicians and associate professionals	33	Business and administration associate professionals	333	Business services agents
+2	Professionals	21	Science and engineering professionals	213	Life science professionals
+3	Technicians and associate professionals	33	Business and administration associate professionals	334	Administrative and specialized secretaries
+2	Professionals	21	Science and engineering professionals	214	Engineering professionals (excluding electrotechnology)
+3	Technicians and associate professionals	33	Business and administration associate professionals	335	Regulatory government associate professionals
+7	Craft and related trades workers	73	Handicraft and printing workers	731	Handicraft workers
+2	Professionals	21	Science and engineering professionals	215	Electrotechnology engineers
+6	Skilled agricultural, forestry and fishery workers	61	Market-oriented skilled agricultural workers	611	Market gardeners and crop growers
+7	Craft and related trades workers	73	Handicraft and printing workers	732	Printing trades workers
+2	Professionals	21	Science and engineering professionals	216	Architects, planners, surveyors and designers
+6	Skilled agricultural, forestry and fishery workers	61	Market-oriented skilled agricultural workers	612	Animal producers
+6	Skilled agricultural, forestry and fishery workers	61	Market-oriented skilled agricultural workers	613	Mixed crop and animal producers
+3	Technicians and associate professionals	34	Legal, social, cultural and related associate professionals	341	Legal, social and religious associate professionals
+2	Professionals	22	Health professionals	221	Medical doctors
+3	Technicians and associate professionals	34	Legal, social, cultural and related associate professionals	342	Sports and fitness workers
+2	Professionals	22	Health professionals	222	Nursing and midwifery professionals
+3	Technicians and associate professionals	34	Legal, social, cultural and related associate professionals	343	Artistic, cultural and culinary associate professionals
+2	Professionals	22	Health professionals	223	Traditional and complementary medicine professionals
+2	Professionals	22	Health professionals	224	Paramedical practitioners
+7	Craft and related trades workers	74	Electrical and electronic trades workers	741	Electrical equipment installers and repairers
+2	Professionals	22	Health professionals	225	Veterinarians
+6	Skilled agricultural, forestry and fishery workers	62	Market-oriented skilled forestry, fishery and hunting workers	621	Forestry and related workers
+7	Craft and related trades workers	74	Electrical and electronic trades workers	742	Electronics and telecommunications installers and repairers
+2	Professionals	22	Health professionals	226	Other health professionals
+6	Skilled agricultural, forestry and fishery workers	62	Market-oriented skilled forestry, fishery and hunting workers	622	Fishery workers, hunters and trappers
+2	Professionals	22	Health professionals	227	Medical Assistant professionals
