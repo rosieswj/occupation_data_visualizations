@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+
+    <title>Esco Data Hierarchy</title>
+
+    <style>
+	
+	.node {
+		cursor: pointer;
+	}
+
+	.node circle {
+	  fill: #fff;
+	  stroke: steelblue;
+	  stroke-width: 3px;
+	}
+
+	.node text {
+	  font: 10px sans-serif;
+	}
+
+	.link {
+	  fill: none;
+	  stroke: #ccc;
+	  stroke-width: 2px;
+	}
+	
+    </style>
+
+  </head>
+
+  <body>
+
+<!-- load the d3.js library -->	
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="javascrip.js"></script>
+	
+<script>
+
+var treeData = {"parent":"null","children":[{"parent":"null","children":[{"parent":"0 Armed forces occupations","children":[{"parent":"01 Commissioned armed forces officers","name":"011 Commissioned armed forces officers"}],"name":"01 Commissioned armed forces officers"},{"parent":"0 Armed forces occupations","children":[{"parent":"02 Non-commissioned armed forces officers","name":"021 Non-commissioned armed forces officers"}],"name":"02 Non-commissioned armed forces officers"},{"parent":"0 Armed forces occupations","children":[{"parent":"03 Armed forces occupations, other ranks","name":"031 Armed forces occupations, other ranks"}],"name":"03 Armed forces occupations, other ranks"}],"name":"0 Armed forces occupations"},{"parent":"null","children":[{"parent":"1 Managers","children":[{"parent":"11 Chief executives, senior officials and legislators","name":"111 Legislators and senior officials"},{"parent":"11 Chief executives, senior officials and legislators","name":"112 Managing directors and chief executives"}],"name":"11 Chief executives, senior officials and legislators"},{"parent":"1 Managers","children":[{"parent":"12 Administrative and commercial managers","name":"121 Business services and administration managers"},{"parent":"12 Administrative and commercial managers","name":"122 Sales, marketing and development managers"}],"name":"12 Administrative and commercial managers"},{"parent":"1 Managers","children":[{"parent":"13 Production and specialized services managers","name":"131 Production managers in agriculture, forestry and fisheries"},{"parent":"13 Production and specialized services managers","name":"132 Manufacturing, mining, construction, and distribution managers"},{"parent":"13 Production and specialized services managers","name":"133 Information and communications technology service managers"},{"parent":"13 Production and specialized services managers","name":"134 Professional services managers"}],"name":"13 Production and specialized services managers"},{"parent":"1 Managers","children":[{"parent":"14 Hospitality, retail and other services managers","name":"141 Hotel and restaurant managers"},{"parent":"14 Hospitality, retail and other services managers","name":"142 Retail and wholesale trade managers"},{"parent":"14 Hospitality, retail and other services managers","name":"143 Other services managers"}],"name":"14 Hospitality, retail and other services managers"}],"name":"1 Managers"},{"parent":"null","children":[{"parent":"2 Professionals","children":[{"parent":"22 Health professionals","name":"221 Medical doctors"},{"parent":"22 Health professionals","name":"222 Nursing and midwifery professionals"},{"parent":"22 Health professionals","name":"223 Traditional and complementary medicine professionals"},{"parent":"22 Health professionals","name":"224 Paramedical practitioners"},{"parent":"22 Health professionals","name":"225 Veterinarians"},{"parent":"22 Health professionals","name":"226 Other health professionals"},{"parent":"22 Health professionals","name":"227 Medical Assistant professionals"}],"name":"22 Health professionals"},{"parent":"2 Professionals","children":[{"parent":"23 Teaching professionals","name":"231 University and higher education teachers"},{"parent":"23 Teaching professionals","name":"232 Vocational education teachers"},{"parent":"23 Teaching professionals","name":"233 Secondary education teachers"},{"parent":"23 Teaching professionals","name":"234 Primary school and early childhood teachers"},{"parent":"23 Teaching professionals","name":"235 Other teaching professionals"}],"name":"23 Teaching professionals"},{"parent":"2 Professionals","children":[{"parent":"24 Business and administration professionals","name":"241 Finance professionals"},{"parent":"24 Business and administration professionals","name":"242 Administration professionals"},{"parent":"24 Business and administration professionals","name":"243 Sales, marketing and public relations professionals"}],"name":"24 Business and administration professionals"},{"parent":"2 Professionals","children":[{"parent":"25 Information and communications technology professionals","name":"251 Software and applications developers and analysts"},{"parent":"25 Information and communications technology professionals","name":"252 Database and network professionals"}],"name":"25 Information and communications technology professionals"},{"parent":"2 Professionals","children":[{"parent":"26 Legal, social and cultural professionals","name":"261 Legal professionals"},{"parent":"26 Legal, social and cultural professionals","name":"262 Librarians, archivists and curators"},{"parent":"26 Legal, social and cultural professionals","name":"263 Social and religious professionals"},{"parent":"26 Legal, social and cultural professionals","name":"264 Authors, journalists and linguists"},{"parent":"26 Legal, social and cultural professionals","name":"265 Creative and performing artists"}],"name":"26 Legal, social and cultural professionals"},{"parent":"2 Professionals","children":[{"parent":"21 Science and engineering professionals","name":"211 Physical and earth science professionals"},{"parent":"21 Science and engineering professionals","name":"212 Mathematicians, actuaries and statisticians"},{"parent":"21 Science and engineering professionals","name":"213 Life science professionals"},{"parent":"21 Science and engineering professionals","name":"214 Engineering professionals (excluding electrotechnology)"},{"parent":"21 Science and engineering professionals","name":"215 Electrotechnology engineers"},{"parent":"21 Science and engineering professionals","name":"216 Architects, planners, surveyors and designers"}],"name":"21 Science and engineering professionals"}],"name":"2 Professionals"},{"parent":"null","children":[{"parent":"3 Technicians and associate professionals","children":[{"parent":"33 Business and administration associate professionals","name":"331 Financial and mathematical associate professionals"},{"parent":"33 Business and administration associate professionals","name":"332 Sales and purchasing agents and brokers"},{"parent":"33 Business and administration associate professionals","name":"333 Business services agents"},{"parent":"33 Business and administration associate professionals","name":"334 Administrative and specialized secretaries"},{"parent":"33 Business and administration associate professionals","name":"335 Regulatory government associate professionals"}],"name":"33 Business and administration associate professionals"},{"parent":"3 Technicians and associate professionals","children":[{"parent":"34 Legal, social, cultural and related associate professionals","name":"341 Legal, social and religious associate professionals"},{"parent":"34 Legal, social, cultural and related associate professionals","name":"342 Sports and fitness workers"},{"parent":"34 Legal, social, cultural and related associate professionals","name":"343 Artistic, cultural and culinary associate professionals"}],"name":"34 Legal, social, cultural and related associate professionals"},{"parent":"3 Technicians and associate professionals","children":[{"parent":"35 Information and communications technicians","name":"351 Information and communications technology operations and user support technicians"},{"parent":"35 Information and communications technicians","name":"352 Telecommunications and broadcasting technicians"}],"name":"35 Information and communications technicians"},{"parent":"3 Technicians and associate professionals","children":[{"parent":"31 Science and engineering associate professionals","name":"311 Physical and engineering science technicians"},{"parent":"31 Science and engineering associate professionals","name":"312 Mining, manufacturing and construction supervisors"},{"parent":"31 Science and engineering associate professionals","name":"313 Process control technicians"},{"parent":"31 Science and engineering associate professionals","name":"314 Life science technicians and related associate professionals"},{"parent":"31 Science and engineering associate professionals","name":"315 Ship and aircraft controllers and technicians"}],"name":"31 Science and engineering associate professionals"},{"parent":"3 Technicians and associate professionals","children":[{"parent":"32 Health associate professionals","name":"321 Medical and pharmaceutical technicians"},{"parent":"32 Health associate professionals","name":"322 Nursing and midwifery associate professionals"},{"parent":"32 Health associate professionals","name":"323 Traditional and complementary medicine associate professionals"},{"parent":"32 Health associate professionals","name":"324 Veterinary technicians and assistants"},{"parent":"32 Health associate professionals","name":"325 Other health associate professionals"}],"name":"32 Health associate professionals"}],"name":"3 Technicians and associate professionals"},{"parent":"null","children":[{"parent":"4 Clerical support workers","children":[{"parent":"44 Other clerical support workers","name":"441 Other clerical support workers"}],"name":"44 Other clerical support workers"},{"parent":"4 Clerical support workers","children":[{"parent":"41 General and keyboard clerks","name":"411 General office clerks"},{"parent":"41 General and keyboard clerks","name":"412 Secretaries (general)"},{"parent":"41 General and keyboard clerks","name":"413 Keyboard operators"}],"name":"41 General and keyboard clerks"},{"parent":"4 Clerical support workers","children":[{"parent":"42 Customer services clerks","name":"421 Tellers, money collectors and related clerks"},{"parent":"42 Customer services clerks","name":"422 Client information workers"}],"name":"42 Customer services clerks"},{"parent":"4 Clerical support workers","children":[{"parent":"43 Numerical and material recording clerks","name":"431 Numerical clerks"},{"parent":"43 Numerical and material recording clerks","name":"432 Material-recording and transport clerks"}],"name":"43 Numerical and material recording clerks"}],"name":"4 Clerical support workers"},{"parent":"null","children":[{"parent":"5 Service and sales workers","children":[{"parent":"51 Personal service workers","name":"511 Travel attendants, conductors and guides"},{"parent":"51 Personal service workers","name":"512 Cooks"},{"parent":"51 Personal service workers","name":"513 Waiters and bartenders"},{"parent":"51 Personal service workers","name":"514 Hairdressers, beauticians and related workers"},{"parent":"51 Personal service workers","name":"515 Building and housekeeping supervisors"},{"parent":"51 Personal service workers","name":"516 Other personal services workers"}],"name":"51 Personal service workers"},{"parent":"5 Service and sales workers","children":[{"parent":"52 Sales workers","name":"521 Street and market salespersons"},{"parent":"52 Sales workers","name":"522 Shop salespersons"},{"parent":"52 Sales workers","name":"523 Cashiers and ticket clerks"},{"parent":"52 Sales workers","name":"524 Other sales workers"}],"name":"52 Sales workers"},{"parent":"5 Service and sales workers","children":[{"parent":"53 Personal care workers","name":"531 Child care workers and teachers' aides"},{"parent":"53 Personal care workers","name":"532 Personal care workers in health services"}],"name":"53 Personal care workers"},{"parent":"5 Service and sales workers","children":[{"parent":"54 Protective services workers","name":"541 Protective services workers"}],"name":"54 Protective services workers"}],"name":"5 Service and sales workers"},{"parent":"null","children":[{"parent":"6 Skilled agricultural, forestry and fishery workers","children":[{"parent":"61 Market-oriented skilled agricultural workers","name":"611 Market gardeners and crop growers"},{"parent":"61 Market-oriented skilled agricultural workers","name":"612 Animal producers"},{"parent":"61 Market-oriented skilled agricultural workers","name":"613 Mixed crop and animal producers"}],"name":"61 Market-oriented skilled agricultural workers"},{"parent":"6 Skilled agricultural, forestry and fishery workers","children":[{"parent":"62 Market-oriented skilled forestry, fishery and hunting workers","name":"621 Forestry and related workers"},{"parent":"62 Market-oriented skilled forestry, fishery and hunting workers","name":"622 Fishery workers, hunters and trappers"}],"name":"62 Market-oriented skilled forestry, fishery and hunting workers"},{"parent":"6 Skilled agricultural, forestry and fishery workers","children":[{"parent":"63 Subsistence farmers, fishers, hunters and gatherers","name":"631 Subsistence crop farmers"},{"parent":"63 Subsistence farmers, fishers, hunters and gatherers","name":"632 Subsistence livestock farmers"},{"parent":"63 Subsistence farmers, fishers, hunters and gatherers","name":"633 Subsistence mixed crop and livestock farmers"},{"parent":"63 Subsistence farmers, fishers, hunters and gatherers","name":"634 Subsistence fishers, hunters, trappers and gatherers"}],"name":"63 Subsistence farmers, fishers, hunters and gatherers"}],"name":"6 Skilled agricultural, forestry and fishery workers"},{"parent":"null","children":[{"parent":"7 Craft and related trades workers","children":[{"parent":"71 Building and related trades workers, excluding electricians","name":"711 Building frame and related trades workers"},{"parent":"71 Building and related trades workers, excluding electricians","name":"712 Building finishers and related trades workers"},{"parent":"71 Building and related trades workers, excluding electricians","name":"713 Painters, building structure cleaners and related trades workers"}],"name":"71 Building and related trades workers, excluding electricians"},{"parent":"7 Craft and related trades workers","children":[{"parent":"72 Metal, machinery and related trades workers","name":"721 Sheet and structural metal workers, moulders and welders, and related workers"},{"parent":"72 Metal, machinery and related trades workers","name":"722 Blacksmiths, toolmakers and related trades workers"},{"parent":"72 Metal, machinery and related trades workers","name":"723 Machinery mechanics and repairers"}],"name":"72 Metal, machinery and related trades workers"},{"parent":"7 Craft and related trades workers","children":[{"parent":"73 Handicraft and printing workers","name":"731 Handicraft workers"},{"parent":"73 Handicraft and printing workers","name":"732 Printing trades workers"}],"name":"73 Handicraft and printing workers"},{"parent":"7 Craft and related trades workers","children":[{"parent":"74 Electrical and electronic trades workers","name":"741 Electrical equipment installers and repairers"},{"parent":"74 Electrical and electronic trades workers","name":"742 Electronics and telecommunications installers and repairers"}],"name":"74 Electrical and electronic trades workers"},{"parent":"7 Craft and related trades workers","children":[{"parent":"75 Food processing, wood working, garment and other craft and related trades workers","name":"751 Food processing and related trades workers"},{"parent":"75 Food processing, wood working, garment and other craft and related trades workers","name":"752 Wood treaters, cabinet-makers and related trades workers"},{"parent":"75 Food processing, wood working, garment and other craft and related trades workers","name":"753 Garment and related trades workers"},{"parent":"75 Food processing, wood working, garment and other craft and related trades workers","name":"754 Other craft and related workers"}],"name":"75 Food processing, wood working, garment and other craft and related trades workers"}],"name":"7 Craft and related trades workers"},{"parent":"null","children":[{"parent":"8 Plant and machine operators and assemblers","children":[{"parent":"81 Stationary plant and machine operators","name":"811 Mining and mineral processing plant operators"},{"parent":"81 Stationary plant and machine operators","name":"812 Metal processing and finishing plant operators"},{"parent":"81 Stationary plant and machine operators","name":"813 Chemical and photographic products plant and machine operators"},{"parent":"81 Stationary plant and machine operators","name":"814 Rubber, plastic and paper products machine operators"},{"parent":"81 Stationary plant and machine operators","name":"815 Textile, fur and leather products machine operators"},{"parent":"81 Stationary plant and machine operators","name":"816 Food and related products machine operators"},{"parent":"81 Stationary plant and machine operators","name":"817 Wood processing and papermaking plant operators"},{"parent":"81 Stationary plant and machine operators","name":"818 Other stationary plant and machine operators"}],"name":"81 Stationary plant and machine operators"},{"parent":"8 Plant and machine operators and assemblers","children":[{"parent":"82 Assemblers","name":"821 Assemblers"}],"name":"82 Assemblers"},{"parent":"8 Plant and machine operators and assemblers","children":[{"parent":"83 Drivers and mobile plant operators","name":"831 Locomotive engine drivers and related workers"},{"parent":"83 Drivers and mobile plant operators","name":"832 Car, van and motorcycle drivers"},{"parent":"83 Drivers and mobile plant operators","name":"833 Heavy truck and bus drivers"},{"parent":"83 Drivers and mobile plant operators","name":"834 Mobile plant operators"},{"parent":"83 Drivers and mobile plant operators","name":"835 Ships' deck crews and related workers"}],"name":"83 Drivers and mobile plant operators"}],"name":"8 Plant and machine operators and assemblers"},{"parent":"null","children":[{"parent":"9 Elementary occupations","children":[{"parent":"91 Cleaners and helpers","name":"911 Domestic, hotel and office cleaners and helpers"},{"parent":"91 Cleaners and helpers","name":"912 Vehicle, window, laundry and other hand cleaning workers"}],"name":"91 Cleaners and helpers"},{"parent":"9 Elementary occupations","children":[{"parent":"92 Agricultural, forestry and fishery labourers","name":"921 Agricultural, forestry and fishery labourers"}],"name":"92 Agricultural, forestry and fishery labourers"},{"parent":"9 Elementary occupations","children":[{"parent":"93 Labourers in mining, construction, manufacturing and transport","name":"931 Mining and construction labourers"},{"parent":"93 Labourers in mining, construction, manufacturing and transport","name":"932 Manufacturing labourers"},{"parent":"93 Labourers in mining, construction, manufacturing and transport","name":"933 Transport and storage labourers"}],"name":"93 Labourers in mining, construction, manufacturing and transport"},{"parent":"9 Elementary occupations","children":[{"parent":"94 Food preparation assistants","name":"941 Food preparation assistants"}],"name":"94 Food preparation assistants"},{"parent":"9 Elementary occupations","children":[{"parent":"95 Street and related sales and service workers","name":"951 Street and related service workers"},{"parent":"95 Street and related sales and service workers","name":"952 Street vendors (excluding food)"}],"name":"95 Street and related sales and service workers"},{"parent":"9 Elementary occupations","children":[{"parent":"96 Refuse workers and other elementary workers","name":"961 Refuse workers"},{"parent":"96 Refuse workers and other elementary workers","name":"962 Other elementary workers"}],"name":"96 Refuse workers and other elementary workers"}],"name":"9 Elementary occupations"}],"name":"Esco"};
+
+// ************** Generate the tree diagram	 *****************
+var margin = {top: 20, right: 0, bottom: 20, left: 100},
+	width = 2000 - margin.right - margin.left,
+	height = 1500 - margin.top - margin.bottom;
+	
+var i = 1,
+	duration = 750,
+	root;
+
+var tree = d3.layout.tree()
+	.size([height, width]);
+
+var diagonal = d3.svg.diagonal()
+	.projection(function(d) { return [d.y, d.x]; });
+
+var svg = d3.select("body").append("svg")
+	.attr("width", width + margin.right + margin.left)
+	.attr("height", height + margin.top + margin.bottom)
+  .append("g")
+	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// root = treeData;
+var jdata = treeData;
+
+root = jdata;
+root.x0 = height / 2;
+root.y0 = 0;
+  
+update(root);
+collapseAll();
+
+d3.select(self.frameElement).style("height", "500px");
+
+
+
+function update(source) {
+
+  // Compute the new tree layout.
+  var nodes = tree.nodes(root).reverse(),
+	  links = tree.links(nodes);
+
+  // Normalize for fixed-depth.
+  nodes.forEach(function(d) { d.y = d.depth * 180; });
+
+  // Update the nodes…
+  var node = svg.selectAll("g.node")
+	  .data(nodes, function(d) { return d.id || (d.id = ++i); });
+
+  // Enter any new nodes at the parent's previous position.
+  var nodeEnter = node.enter().append("g")
+	  .attr("class", "node")
+	  .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
+	  .on("click", click);
+
+  nodeEnter.append("circle")
+	  .attr("r", 1e-6)
+	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+
+  nodeEnter.append("text")
+	  .attr("x", function(d) { return d.children || d._children ? -20 : 20; })
+	  .attr("y", function(d) { return d.children || d._children ? -30 : 0; })
+	  .attr("dy", ".8em")
+	  .attr("text-anchor", function(d) { return d.children || d._children ? "start" : "start"; })
+	  .attr("alignment-baseline", function(d) { return "middle"; })
+	  .text(function(d) { return d.name; })
+	  .style("fill-opacity", 1e-6);
+
+  // Transition nodes to their new position.
+  var nodeUpdate = node.transition()
+	  .duration(duration)
+	  .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
+
+  nodeUpdate.select("circle")
+	  .attr("r", 10)
+	  .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+
+  nodeUpdate.select("text")
+	  .style("fill-opacity", 1);
+
+  // Transition exiting nodes to the parent's new position.
+  var nodeExit = node.exit().transition()
+	  .duration(duration)
+	  .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
+	  .remove();
+
+  nodeExit.select("circle")
+	  .attr("r", 1e-6);
+
+  nodeExit.select("text")
+	  .style("fill-opacity", 1e-6);
+
+  // Update the links…
+  var link = svg.selectAll("path.link")
+	  .data(links, function(d) { return d.target.id; });
+
+  // Enter any new links at the parent's previous position.
+  link.enter().insert("path", "g")
+	  .attr("class", "link")
+	  .attr("d", function(d) {
+		var o = {x: source.x0, y: source.y0};
+		return diagonal({source: o, target: o});
+	  });
+
+  // Transition links to their new position.
+  link.transition()
+	  .duration(duration)
+	  .attr("d", diagonal);
+
+  // Transition exiting nodes to the parent's new position.
+  link.exit().transition()
+	  .duration(duration)
+	  .attr("d", function(d) {
+		var o = {x: source.x, y: source.y};
+		return diagonal({source: o, target: o});
+	  })
+	  .remove();
+
+  // Stash the old positions for transition.
+  nodes.forEach(function(d) {
+	d.x0 = d.x;
+	d.y0 = d.y;
+  });
+}
+
+// Toggle children on click.
+function click(d) {
+  if (d.children) {
+	d._children = d.children;
+	d.children = null;
+  } else {
+	d.children = d._children;
+	d._children = null;
+  }
+  update(d);
+}
+
+function collapseAll() {
+    root.children.forEach(collapse);
+    collapse(root);
+    update(root);
+}
+
+function collapse(d) {
+	if (d.children) {
+	    d._children = d.children;
+	    d._children.forEach(collapse);
+	    d.children = null;
+	}
+}
+
+</script>
+	
+  </body>
+</html>
