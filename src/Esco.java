@@ -6,12 +6,18 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 
+/**
+ * Generate ONET viz data
+ * Use 2-level hashmap maps [id: int -> name: String]
+ */
 public class Esco {
 
+    final static String JSON_OUTPUT_PATH  = "src/out/esco_viz.json";
+    final static String ESCO_JOBS_LIST   =   "src/data/job_list_esco.txt";
+    final static String ESCO_TITLE   = "src/data/esco_job_title.txt";
 
     public static void main(String[] args) throws Exception  {
-        String path = "src/parse_esco.txt";
-        List<String> l = Readfile.readFile(path);
+        List<String> l = Readfile.readFile(ESCO_JOBS_LIST);
 
         Set<String> todo = new HashSet<>();
         Map<String, String> m = new HashMap<>();
@@ -28,13 +34,24 @@ public class Esco {
             m.put(id, name);
         }
 
-//        writeFlatTable(m, todo);
         writeJson2(m);
     }
 
+    static String clean(String s) {
+        return s.replace("\t"," ").replace("\"","");
+    }
 
 
-    static void writeJson2(Map<String, String> m) throws IOException {
+    static void writeJson2(Map<String, String> m) throws Exception {
+
+        List<String> jobs_raw = Readfile.readFile(ESCO_TITLE);
+        List<String[] > jobs = new ArrayList<>();
+        for (String s: jobs_raw) {
+            String[] ss = s.split("\t");
+            ss[0] = ss[0].substring(0, 3);
+            ss[1] = clean(ss[1]);
+            jobs.add(ss);
+        }
 
         List<String> l1 = new ArrayList<>();
         List<String> l2 = new ArrayList<>();
@@ -75,12 +92,12 @@ public class Esco {
             }
             bigm.put(major, submap);
         }
+        System.out.println(bigm.toString());
 
 
         JSONObject root = new JSONObject();
         root.put("parent", "null");
-        root.put("name", "esco");
-
+        root.put("name", "ESCO");
         JSONArray biglist = new JSONArray();
 
         for (int i=0; i <10; i++) {
@@ -88,7 +105,7 @@ public class Esco {
             String l1id = major + " " + m.get(major);
 
             JSONObject o1 = new JSONObject();
-            o1.put("parent", "null");
+            o1.put("parent", "ESCO");
             o1.put("name", l1id);
 
             JSONArray children = new JSONArray();
@@ -106,61 +123,38 @@ public class Esco {
                     JSONObject o3 = new JSONObject();
                     o3.put("parent", l2id);
                     String l3id = minor + " " + m.get(minor);
+
                     o3.put("name", l3id);
+
+                    JSONArray ejobs  = new JSONArray();
+                    for (String[] j: jobs) {
+                        if (j[0].equals(l3id.substring(0,3))) {
+
+                            JSONObject o4 = new JSONObject();
+                            o4.put("parent", l3id);
+                            o4.put("name", j[1]);
+
+                            ejobs.add(o4);
+                        }
+                    }
+                    o3.put("children", ejobs);
+//                    System.out.println(l2id + "-> " + l3id + "-> " + ejobs.toJSONString());
                     minors.add(o3);
                 }
+
                 o2.put("children", minors);
-
-
                 children.add(o2);
             }
-
             o1.put("children", children);
             biglist.add(o1);
         }
+        root.put("children",biglist);
 
-
-        root.put("children", biglist);
-
-        FileWriter file = new FileWriter("src/data.json");
-        JSONArray towrite = new JSONArray();
-        towrite.add(root);
-
-
-        file.write(towrite.toJSONString());
+        FileWriter file = new FileWriter(JSON_OUTPUT_PATH);
+        file.write(root.toJSONString());
         file.flush();
         file.close();
 
-
-    }
-
-
-    static void writeFlatTable(Map<String,String> m, Set<String> todo) throws Exception {
-        String path = "src/isco_08.txt";
-        FileWriter writer = new FileWriter(path, true);
-
-
-        for (String s: todo) {
-            String[] l = getLevel(s);
-
-            writer.write(l[0] + "\t" + m.get(l[0]) +  "\t");
-            writer.write(l[1] + "\t" + m.get(l[1]) +  "\t");
-            writer.write(l[2] + "\t" + m.get(l[2]));
-            writer.write("\n" );
-        }
-        writer.close();
-        System.out.println("done: " + path);
-
-    }
-
-
-    static String[] getLevel(String s) {
-        String[] res = new String[3];
-        for (int i=0; i<3; i++) {
-            res[i] = s.substring(0, i+1);
-        }
-
-        return res;
     }
 
 

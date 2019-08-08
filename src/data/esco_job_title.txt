@@ -1,0 +1,2942 @@
+110	Fleet Commander
+110	Navy Officer
+110	Artillery Officer
+110	Army Captain
+110	Lieutenant
+110	Colonel
+110	Brigadier
+110	Armed Forces Officer
+110	Army General
+110	Squadron Leader
+110	Army Major
+110	Air Force Officer
+210	Special Forces Officer
+210	Army Corporal
+210	Warfare Specialist
+210	Sergeant
+310	Intelligence Communications Interceptor
+310	Military Engineer
+310	Infantry Soldier
+310	Air Force Pilot
+310	Bomb Disposal Technician
+1111	Secretary Of State
+1111	Government Minister
+1111	Member Of Parliament
+1111	Mayor
+1111	City Councillor
+1111	Senator
+1111	Provincial Governor
+1112	Public Administration Manager
+1112	Ambassador
+1112	Diplomat
+1112	Police Commissioner
+1112	Secretary General
+1112	Central Bank Governor
+1112	Embassy Counsellor
+1112	Consul
+1112	Fire Commissioner
+1114	Special-Interest Groups' Official
+1120	Branch Manager
+1120	Airport Chief Executive
+1120	Business Manager
+1120	Chief Executive Officer
+1120	Animal Facility Manager
+1120	Chief Operating Officer
+1211	Accounting Manager
+1211	Financial Manager
+1211	Corporate Treasurer
+1211	Budget Manager
+1211	Bank Treasurer
+1212	Equality And Inclusion Manager
+1212	Human Resources Manager
+1213	Strategic Planning Manager
+1213	Policy Manager
+1213	Director Of Compliance And Information Security In Gambling
+1213	Programme Manager
+1213	Social Security Administrator
+1213	Tourism Policy Director
+1219	Foundry Manager
+1219	Quality Services Manager
+1219	Corporate Social Responsibility Manager
+1219	Business Service Manager
+1219	Water Treatment Plant Manager
+1219	Manufacturing Facility Manager
+1219	Chemical Plant Manager
+1219	Defence Administration Officer
+1219	Department Manager
+1219	Facilities Manager
+1219	Wood Factory Manager
+1219	Project Manager
+1219	Power Plant Manager
+1219	Security Manager
+1221	Auction House Manager
+1221	Chief Marketing Officer
+1221	Motor Vehicle Aftersales Manager
+1221	Online Sales Channel Manager
+1221	Commercial Director
+1221	Destination Manager
+1221	Tourism Product Manager
+1221	Marketing Manager
+1221	Licensing Manager
+1221	Sales Manager
+1221	Banking Products Manager
+1221	Promotion Manager
+1221	Category Manager
+1222	Advertising Manager
+1222	Public Relations Manager
+1222	Communication Manager
+1223	Clothing Development Manager
+1223	Product Development Manager
+1223	Games Development Manager
+1223	Insurance Product Manager
+1223	Research And Development Manager
+1223	Ict Research Manager
+1223	Product Manager
+1223	Leather Goods Product Development Manager
+1223	Research Manager
+1223	Footwear Product Development Manager
+1311	Forester
+1312	Aquaculture Harvesting Manager
+1312	Aquaculture Production Manager
+1312	Aquaculture Husbandry Manager
+1321	Footwear Quality Manager
+1321	Metal Production Manager
+1321	Chemical Production Manager
+1321	Leather Goods Quality Manager
+1321	Leather Wet Processing Department Manager
+1321	Leather Production Manager
+1321	Clothing Operations Manager
+1321	Metallurgical Manager
+1321	Manufacturing Manager
+1321	Footwear Production Manager
+1321	Textile Quality Manager
+1321	Waste Management Officer
+1321	Sewerage Systems Manager
+1321	Leather Finishing Operations Manager
+1321	Food Production Manager
+1321	Operations Manager
+1321	Leather Goods Production Manager
+1321	Industrial Production Manager
+1321	Industrial Quality Manager
+1322	Oil And Gas Production Manager
+1322	Mine Manager
+1322	Quarry Manager
+1322	Mine Production Manager
+1323	Property Developer
+1323	Construction General Contractor
+1323	Construction Manager
+1324	Import Export Manager In Meat And Meat Products
+1324	Electronic And Telecommunications Equipment And Parts Distribution Manager
+1324	Import Export Manager In Agricultural Machinery And Equipment
+1324	Air Traffic Manager
+1324	"Import Export Manager In Machinery, Industrial Equipment, Ships And Aircraft"
+1324	Textile Industry Machinery Distribution Manager
+1324	"Import Export Manager In Hardware, Plumbing And Heating Equipment And Supplies"
+1324	Import Export Manager In Flowers And Plants
+1324	Flowers And Plants Distribution Manager
+1324	"Computers, Computer Peripheral Equipment And Software Distribution Manager"
+1324	Pharmaceutical Goods Distribution Manager
+1324	Live Animals Distribution Manager
+1324	"Fish, Crustaceans And Molluscs Distribution Manager"
+1324	Warehouse Manager
+1324	Movie Distributor
+1324	Purchasing Manager
+1324	China And Glassware Distribution Manager
+1324	Import Export Manager In Perfume And Cosmetics
+1324	"Import Export Manager In Coffee, Tea, Cocoa And Spices"
+1324	"Agricultural Raw Materials, Seeds And Animal Feeds Distribution Manager"
+1324	Wood And Construction Materials Distribution Manager
+1324	Import Export Manager In Office Furniture
+1324	Road Operations Manager
+1324	Metals And Metal Ores Distribution Manager
+1324	"Textiles, Textile Semi-Finished And Raw Materials Distribution Manager"
+1324	Import Export Manager In Wood And Construction Materials
+1324	Import Export Manager In Metals And Metal Ores
+1324	Tobacco Products Distribution Manager
+1324	Clothing And Footwear Distribution Manager
+1324	Distribution Manager
+1324	Import Export Manager In Watches And Jewellery
+1324	Import Export Manager In Dairy Products And Edible Oils
+1324	Watches And Jewellery Distribution Manager
+1324	Import Export Manager In Textiles And Textile Semi-Finished And Raw Materials
+1324	Specialised Goods Distribution Manager
+1324	Fruit And Vegetables Distribution Manager
+1324	Inland Water Transport General Manager
+1324	Finished Leather Warehouse Manager
+1324	Pipeline Superintendent
+1324	"Import Export Manager In Computers, Computer Peripheral Equipment And Software"
+1324	"Hides, Skins And Leather Products Distribution Manager"
+1324	Leather Raw Materials Purchasing Manager
+1324	Logistics And Distribution Manager
+1324	"Import Export Manager In Mining, Construction And Civil Engineering Machinery"
+1324	Chemical Products Distribution Manager
+1324	Import Export Manager In Electronic And Telecommunications Equipment And Parts
+1324	Import Export Manager In Office Machinery And Equipment
+1324	Move Manager
+1324	Import Export Manager In China And Other Glassware
+1324	"Machinery, Industrial Equipment, Ships And Aircraft Distribution Manager"
+1324	Import Export Manager In Textile Industry Machinery
+1324	Rail Operations Manager
+1324	Resource Manager
+1324	Import Export Manager In Beverages
+1324	Waste And Scrap Distribution Manager
+1324	Intermodal Logistics Manager
+1324	Household Goods Distribution Manager
+1324	"Import Export Manager In Furniture, Carpets And Lighting Equipment"
+1324	Supply Chain Manager
+1324	"Mining, Construction And Civil Engineering Machinery Distribution Manager"
+1324	Forecast Manager
+1324	"Import Export Manager In Sugar, Chocolate And Sugar Confectionery"
+1324	Import Export Manager In Household Goods
+1324	"Import Export Manager In Fish, Crustaceans And Molluscs"
+1324	Railway Station Manager
+1324	Import Export Manager In Live Animals
+1324	Perfume And Cosmetics Distribution Manager
+1324	Import Export Manager
+1324	Maritime Water Transport General Manager
+1324	Import Export Manager In Machine Tools
+1324	"Furniture, Carpets And Lighting Equipment Distribution Manager"
+1324	Dairy Products And Edible Oils Distribution Manager
+1324	Import Export Manager In Tobacco Products
+1324	Import Export Manager In Waste And Scrap
+1324	Import Export Manager In Clothing And Footwear
+1324	"Hardware, Plumbing And Heating Equipment And Supplies Distribution Manager"
+1324	"Import Export Manager In Hides, Skins And Leather Products"
+1324	Import Export Manager In Pharmaceutical Goods
+1324	Import Export Manager In Fruit And Vegetables
+1324	"Import Export Manager In Agricultural Raw Materials, Seeds And Animal Feeds"
+1324	Electrical Household Appliances Distribution Manager
+1324	Beverages Distribution Manager
+1324	Agricultural Machinery And Equipment Distribution Manager
+1324	"Sugar, Chocolate And Sugar Confectionery Distribution Manager"
+1324	Import Export Manager In Electrical Household Appliances
+1324	Meat And Meat Products Distribution Manager
+1324	Road Transport Division Manager
+1324	"Coffee, Tea, Cocoa And Spices Distribution Manager"
+1324	Airport Director
+1324	Import Export Manager In Chemical Products
+1330	Telecommunications Manager
+1330	Ict Documentation Manager
+1330	Chief Technology Officer
+1330	Ict Information And Knowledge Manager
+1330	Chief Information Officer
+1330	Ict Project Manager
+1330	Ict Product Manager
+1330	Chief Data Officer
+1330	Ict Vendor Relationship Manager
+1330	Ict Operations Manager
+1330	Software Manager
+1341	Child Care Coordinator
+1341	Nursery School Head Teacher
+1341	Child Day Care Centre Manager
+1342	Healthcare Institution Manager
+1342	Clinical Informatics Manager
+1343	Elderly Home Manager
+1344	Public Housing Manager
+1344	Youth Programme Director
+1344	Social Services Manager
+1344	Youth Centre Manager
+1345	Head Of Higher Education Institutions
+1345	Special Educational Needs Head Teacher
+1345	Deputy Head Teacher
+1345	Further Education Principal
+1345	University Department Head
+1345	Secondary School Head Teacher
+1345	Primary School Head Teacher
+1345	Education Programme Coordinator
+1345	Secondary School Department Head
+1345	Headteacher
+1345	Dean Of Faculty
+1346	Credit Union Manager
+1346	Insurance Agency Manager
+1346	Bank Manager
+1346	Insurance Claims Manager
+1346	Pension Scheme Manager
+1346	Brokerage Firm Director
+1349	Sport Administrator
+1349	Library Manager
+1349	Commercial Art Gallery Manager
+1349	Aviation Communications And Frequency Coordination Manager
+1349	Court Administrator
+1349	Airside Safety Manager
+1349	Environmental Protection Manager
+1349	Rescue Centre Manager
+1349	Correctional Services Manager
+1349	Interpretation Agency Manager
+1349	Translation Agency Manager
+1349	Aviation Surveillance And Code Coordination Manager
+1349	Energy Manager
+1349	Chief Fire Officer
+1349	Publications Coordinator
+1349	Service Manager
+1349	Museum Director
+1349	Airspace Manager
+1349	Legal Service Manager
+1349	Front Of House Manager
+1349	Artistic Director
+1349	Book Publisher
+1349	Medical Laboratory Manager
+1349	Archive Manager
+1411	Rooms Division Manager
+1411	Accommodation Manager
+1412	Restaurant Manager
+1420	Tobacco Shop Manager
+1420	Shoe And Leather Accessories Shop Manager
+1420	Audiology Equipment Shop Manager
+1420	Telecommunication Equipment Shop Manager
+1420	Domestic Appliances Shop Manager
+1420	Medical Goods Shop Manager
+1420	Bakery Shop Manager
+1420	Toys And Games Shop Manager
+1420	Sales Account Manager
+1420	Trade Regional Manager
+1420	Building Materials Shop Manager
+1420	Fish And Seafood Shop Manager
+1420	Audio And Video Equipment Shop Manager
+1420	Jewellery And Watches Shop Manager
+1420	Hardware And Paint Shop Manager
+1420	Meat And Meat Products Shop Manager
+1420	Pet And Pet Food Shop Manager
+1420	Antique Shop Manager
+1420	Floor And Wall Coverings Shop Manager
+1420	Computer Software And Multimedia Shop Manager
+1420	Photography Shop Manager
+1420	Furniture Shop Manager
+1420	Fruit And Vegetables Shop Manager
+1420	Department Store Manager
+1420	Music And Video Shop Manager
+1420	Kitchen And Bathroom Shop Manager
+1420	Ammunition Shop Manager
+1420	Orthopaedic Supply Shop Manager
+1420	Sporting And Outdoor Accessories Shop Manager
+1420	Bookshop Manager
+1420	Clothing Shop Manager
+1420	Press And Stationery Shop Manager
+1420	Textile Shop Manager
+1420	Shop Manager
+1420	Retail Department Manager
+1420	Delicatessen Shop Manager
+1420	Motor Vehicle Shop Manager
+1420	Craft Shop Manager
+1420	Supermarket Manager
+1420	Cosmetics And Perfume Shop Manager
+1420	Drugstore Manager
+1420	Computer Shop Manager
+1420	Confectionery Shop Manager
+1420	Flower And Garden Shop Manager
+1420	Bicycle Shop Manager
+1420	Fuel Station Manager
+1420	Beverages Shop Manager
+1420	Second-Hand Shop Manager
+1420	Eyewear And Optical Equipment Shop Manager
+1431	Performance Production Manager
+1431	Spa Manager
+1431	Gambling Manager
+1431	Zoo Curator
+1431	Beauty Salon Manager
+1431	Lottery Manager
+1431	Cultural Facilities Manager
+1431	Recreational Facilities Manager
+1431	Sport Facility Manager
+1431	Betting Manager
+1431	Cultural Centre Director
+1439	Laundry And Dry Cleaning Manager
+1439	Garage Manager
+1439	Camping Ground Manager
+1439	Travel Agency Manager
+1439	Tourist Information Centre Manager
+1439	Contact Centre Manager
+2111	Astronomer
+2111	Physicist
+2111	Cosmologist
+2112	Weather Forecaster
+2112	Meteorologist
+2112	Aviation Meteorologist
+2112	Climatologist
+2112	Metrologist
+2113	Chemist
+2113	Cosmetic Chemist
+2113	Chemical Application Specialist
+2113	Textile Chemist
+2113	Analytical Chemist
+2113	Sensory Scientist
+2113	Chemical Tester
+2113	Fragrance Chemist
+2114	Mine Geologist
+2114	Oceanographer
+2114	Hydrologist
+2114	Hydrogeologist
+2114	Palaeontologist
+2114	Mineralogist
+2114	Environmental Geologist
+2114	Geophysicist
+2114	Exploration Geologist
+2114	Seismologist
+2114	Geologist
+2114	Geochemist
+2114	Mud Logger
+2120	Actuarial Consultant
+2120	"Gambling, Betting, And Lottery Game Developer"
+2120	"Gambling, Betting, And Lottery Quality Assurance Engineer"
+2120	Mathematician
+2120	Statistician
+2120	Biometrician
+2120	Demographer
+2131	Pharmacologist
+2131	Biophysicist
+2131	Physiologist
+2131	Toxicologist
+2131	Botanist
+2131	Geneticist
+2131	Bioinformatics Scientist
+2131	Aquaculture Biologist
+2131	Food Biotechnologist
+2131	Biochemist
+2131	Animal Behaviourist
+2131	Microbiologist
+2131	Specialist Biomedical Scientist
+2131	Immunologist
+2131	Epidemiologist
+2131	Biomedical Scientist Advanced
+2131	Botanicals Specialist
+2131	Curator Of Horticulture
+2131	Animal Feed Nutritionist
+2131	Biologist
+2132	Fisheries Adviser
+2132	Aquaculture Recirculation Manager
+2132	Agricultural Scientist
+2132	Agronomist
+2132	Livestock Advisor
+2132	Forestry Adviser
+2133	Environmental Scientist
+2133	Water Quality Analyst
+2133	Pipeline Environmental Project Manager
+2133	Environmental Programme Coordinator
+2133	Airport Environment Officer
+2133	Soil Scientist
+2133	Nature Conservation Officer
+2133	Ecologist
+2133	Aquaculture Environmental Analyst
+2133	Countryside Officer
+2133	Conservation Scientist
+2133	Natural Resources Consultant
+2141	Clothing Technologist
+2141	Food Production Engineer
+2141	Logistics Analyst
+2141	Industrial Engineer
+2141	Maintenance And Repair Engineer
+2141	Manufacturing Engineer
+2141	Textile Technologist
+2141	Food And Beverage Packaging Technologist
+2141	Packaging Production Manager
+2141	Leather Goods Industrial Engineer
+2141	Leather Production Planner
+2141	Process Engineer
+2141	Automation Engineer
+2141	Production Engineer
+2141	Surface Engineer
+2142	Geological Engineer
+2142	Construction Engineer
+2142	Rail Project Engineer
+2142	Pipeline Engineer
+2142	Wastewater Engineer
+2142	Drainage Engineer
+2142	Transport Engineer
+2142	Airport Planning Engineer
+2142	Civil Engineer
+2142	Hydropower Engineer
+2142	Mining Geotechnical Engineer
+2142	Water Engineer
+2143	Environmental Mining Engineer
+2143	Recycling Specialist
+2143	Environmental Expert
+2143	Waste Treatment Engineer
+2143	Environmental Engineer
+2143	Ict Environmental Manager
+2144	Steam Engineer
+2144	Welding Engineer
+2144	Equipment Engineer
+2144	"Heating, Ventilation, Air Conditioning Engineer"
+2144	Rotating Equipment Engineer
+2144	Agricultural Engineer
+2144	Packing Machinery Engineer
+2144	Mechanical Engineer
+2144	Naval Architect
+2144	Tooling Engineer
+2144	Rolling Stock Engineer
+2144	Fluid Power Engineer
+2144	Industrial Tool Design Engineer
+2144	Automotive Engineer
+2144	Container Equipment Design Engineer
+2144	Precision Engineer
+2144	Aerodynamics Engineer
+2144	Agricultural Equipment Design Engineer
+2144	Mechatronics Engineer
+2144	Optomechanical Engineer
+2144	Mine Ventilation Engineer
+2144	Marine Engineer
+2144	Aerospace Engineer
+2144	Engine Designer
+2144	Mine Mechanical Engineer
+2145	Oenologist
+2145	Food Technologist
+2145	Synthetic Materials Engineer
+2145	Gas Distribution Engineer
+2145	Gas Production Engineer
+2145	Brewmaster
+2145	Paper Engineer
+2145	Cider Master
+2145	Pharmaceutical Engineer
+2145	Chemical Engineer
+2145	Biochemical Engineer
+2146	Quarry Engineer
+2146	Chemical Metallurgist
+2146	Drilling Engineer
+2146	Explosives Engineer
+2146	Liquid Fuel Engineer
+2146	Process Metallurgist
+2146	Mine Development Engineer
+2146	Mineral Processing Engineer
+2146	Petroleum Engineer
+2146	Mine Planning Engineer
+2146	Assayer
+2146	Metallurgist
+2146	Mine Health And Safety Engineer
+2149	Dismantling Engineer
+2149	Biomedical Engineer
+2149	Quantity Surveyor
+2149	Renewable Energy Engineer
+2149	Wind Energy Engineer
+2149	Component Engineer
+2149	Energy Systems Engineer
+2149	Quality Engineer
+2149	Wood Technology Engineer
+2149	Research Engineer
+2149	Solar Energy Engineer
+2149	Materials Engineer
+2149	Fire Prevention And Protection Engineer
+2149	Aviation Ground Systems Engineer
+2149	Robotics Engineer
+2149	Installation Engineer
+2149	Design Engineer
+2149	"Textile, Leather And Footwear Researcher"
+2149	Commissioning Engineer
+2149	Photonics Engineer
+2149	Contract Engineer
+2149	Nanoengineer
+2149	Health And Safety Engineer
+2149	Compliance Engineer
+2149	Optical Engineer
+2149	Thermal Engineer
+2149	Acoustical Engineer
+2149	Energy Engineer
+2149	Logistics Engineer
+2149	Test Engineer
+2149	Patent Engineer
+2149	Nuclear Engineer
+2149	Bioengineer
+2149	Calculation Engineer
+2149	Application Engineer
+2151	Electromagnetic Engineer
+2151	Electric Power Generation Engineer
+2151	Electromechanical Engineer
+2151	Electrical Engineer
+2151	Power Distribution Engineer
+2151	Mine Electrical Engineer
+2151	Substation Engineer
+2152	Medical Device Engineer
+2152	Satellite Engineer
+2152	Optoelectronic Engineer
+2152	Language Engineer
+2152	Electronics Engineer
+2152	Sensor Engineer
+2152	Flight Test Engineer
+2152	Microsystem Engineer
+2152	Microelectronics Engineer
+2152	Computer Hardware Engineer
+2152	Instrumentation Engineer
+2152	Integrated Circuit Design Engineer
+2153	Telecommunications Engineer
+2153	Telecommunications Analyst
+2161	Architect
+2161	Interior Architect
+2162	Landscape Architect
+2162	Landscape Designer
+2163	Footwear Designer
+2163	Puppet Designer
+2163	Textile Designer
+2163	Automotive Designer
+2163	Jewellery Designer
+2163	Model Maker
+2163	Textile Product Developer
+2163	Textile Colourist
+2163	Fashion Designer
+2163	Leather Goods Designer
+2163	Industrial Designer
+2163	Furniture Designer
+2163	Clothing Fashion Designer
+2163	Costume Designer
+2164	Land Planner
+2164	Transport Planner
+2164	Urban Planner
+2165	Mine Surveyor
+2165	Cadastral Technician
+2165	Hydrographic Surveyor
+2165	Geographic Information Systems Specialist
+2165	Cartographer
+2165	Land Surveyor
+2166	Technical Director
+2166	"Gambling, Betting, And Lottery Games Designer"
+2166	Video And Motion Picture Director
+2166	Illustrator
+2166	Lighting Director
+2166	Animation Director
+2166	Stop-Motion Animator
+2166	Animator
+2166	Production Designer
+2166	Casting Director
+2166	3D Animator
+2166	Graphic Designer
+2166	Director Of Photography
+2166	Desktop Publisher
+2166	Stage Director
+2166	Animation Layout Artist
+2166	Special Effects Artist
+2166	3D Modeller
+2166	Video Designer
+2166	Art Director
+2166	Digital Media Designer
+2166	Digital Artist
+2166	Digital Games Designer
+2211	General Practitioner
+2212	Specialised Doctor
+2221	Specialist Nurse
+2221	Advanced Nurse Practitioner
+2221	Nurse Responsible For General Care
+2222	Midwife
+2230	Acupuncturist
+2230	Homeopath
+2230	Traditional Chinese Medicine Therapist
+2230	Complementary Therapist
+2250	Specialised Veterinarian
+2250	Official Veterinarian
+2250	Aquatic Animal Health Professional
+2250	Animal Chiropractor
+2250	General Veterinarian
+2261	Specialist Dentist
+2261	Dental Practitioner
+2262	Pharmaceutical Quality Specialist
+2262	Industrial Pharmacist
+2262	Hospital Pharmacist
+2262	Pharmacist
+2262	Specialist Pharmacist
+2263	Food Safety Specialist
+2263	Ergonomist
+2263	Emergency Response Coordinator
+2263	Health And Safety Officer
+2263	Radiation Protection Officer
+2264	Physiotherapist
+2264	Animal Physiotherapist
+2264	Advanced Physiotherapist
+2265	Dietitian
+2265	Prepared Meals Nutritionist
+2266	Speech And Language Therapist
+2266	Audiologist
+2267	Orthoptist
+2267	Optometrist
+2269	Kinesiologist
+2269	Occupational Therapist
+2269	Music Therapist
+2269	Chiropractor
+2269	Podiatry Assistant
+2269	Nuclear Medicine Radiographer
+2269	Radiographer
+2269	Dance Therapist
+2269	Diagnostic Radiographer
+2269	Occupational Therapy Assistant
+2269	Therapeutic Radiographer
+2269	Specialist Chiropractor
+2269	Podiatrist
+2269	Animal Assisted Therapist
+2269	Animal Osteopath
+2269	Art Therapist
+2269	Recreational Therapist
+2310	Performing Arts Theatre Instructor
+2310	Economics Lecturer
+2310	Medicine Lecturer
+2310	University Teaching Assistant
+2310	Sociology Lecturer
+2310	Nursing Lecturer
+2310	Business Lecturer
+2310	Earth Science Lecturer
+2310	Social Work Practice Educator
+2310	Veterinary Medicine Lecturer
+2310	Dentistry Lecturer
+2310	Journalism Lecturer
+2310	Communications Lecturer
+2310	Architecture Lecturer
+2310	Fine Arts Instructor
+2310	Pharmacy Lecturer
+2310	Physics Lecturer
+2310	University Research Assistant
+2310	Biology Lecturer
+2310	Education Studies Lecturer
+2310	Art Studies Lecturer
+2310	Higher Education Lecturer
+2310	Performing Arts School Dance Instructor
+2310	Psychology Lecturer
+2310	Music Instructor
+2310	Space Science Lecturer
+2310	Social Work Lecturer
+2310	Anthropology Lecturer
+2310	Food Science Lecturer
+2310	University Literature Lecturer
+2310	History Lecturer
+2310	Philosophy Lecturer
+2310	Healthcare Specialist Lecturer
+2310	Law Lecturer
+2310	Modern Languages Lecturer
+2310	Archaeology Lecturer
+2310	Assistant Lecturer
+2310	Computer Science Lecturer
+2310	Linguistics Lecturer
+2310	Politics Lecturer
+2310	Religious Studies Lecturer
+2310	Mathematics Lecturer
+2310	Chemistry Lecturer
+2310	Engineering Lecturer
+2310	Classical Languages Lecturer
+2320	Maritime Instructor
+2320	Hospitality Vocational Teacher
+2320	Food Service Vocational Teacher
+2320	Occupational Driving Instructor
+2320	Business Administration Vocational Teacher
+2320	Air Traffic Instructor
+2320	Electricity And Energy Vocational Teacher
+2320	Industrial Arts Vocational Teacher
+2320	Beauty Vocational Teacher
+2320	Travel And Tourism Vocational Teacher
+2320	Electronics And Automation Vocational Teacher
+2320	Occupational Railway Instructor
+2320	Police Trainer
+2320	Medical Laboratory Technology Vocational Teacher
+2320	Vocational Teacher
+2320	Auxiliary Nursing And Midwifery Vocational Teacher
+2320	Armed Forces Training And Education Officer
+2320	Transport Technology Vocational Teacher
+2320	"Agriculture, Forestry And Fishery Vocational Teacher"
+2320	Hairdressing Vocational Teacher
+2320	Business And Marketing Vocational Teacher
+2320	Design And Applied Arts Vocational Teacher
+2320	Firefighter Instructor
+2320	Cabin Crew Instructor
+2320	Physical Education Vocational Teacher
+2330	Ict Teacher Secondary School
+2330	Science Teacher Secondary School
+2330	History Teacher Secondary School
+2330	Classical Languages Teacher Secondary School
+2330	Religious Education Teacher Secondary School
+2330	Physics Teacher Secondary School
+2330	Music Teacher Secondary School
+2330	Secondary School Teacher
+2330	Business Studies And Economics Teacher Secondary School
+2330	Art Teacher Secondary School
+2330	Geography Teacher Secondary School
+2330	Biology Teacher Secondary School
+2330	Physical Education Teacher Secondary School
+2330	Literature Teacher Secondary School
+2330	Philosophy Teacher Secondary School
+2330	Mathematics Teacher Secondary School
+2330	Drama Teacher Secondary School
+2330	Modern Languages Teacher Secondary School
+2330	Chemistry Teacher Secondary School
+2341	Primary School Teacher
+2341	Steiner School Teacher
+2342	Early Years Teacher
+2342	Montessori School Teacher
+2342	Freinet School Teacher
+2351	Educational Researcher
+2351	Special Educational Needs Coordinator
+2351	Education Inspector
+2351	Curriculum Administrator
+2352	Adult Literacy Teacher
+2352	Special Educational Needs Teacher Secondary School
+2352	Teacher Of Talented And Gifted Students
+2352	Learning Support Teacher
+2352	Special Educational Needs Itinerant Teacher
+2352	Special Educational Needs Teacher
+2352	Early Years Special Educational Needs Teacher
+2352	Special Educational Needs Teacher Primary School
+2353	Sign Language Teacher
+2353	Language School Teacher
+2354	Music Teacher
+2355	Dance Teacher
+2355	Photography Teacher
+2355	Visual Arts Teacher
+2355	Circus Arts Teacher
+2355	Drama Teacher
+2356	Digital Literacy Teacher
+2356	Ict Trainer
+2359	Public Speaking Coach
+2359	Educational Counsellor
+2359	Academic Support Officer
+2359	Learning Mentor
+2359	Tutor
+2359	Prison Instructor
+2359	Further Education Teacher
+2359	Admissions Coordinator
+2359	E-Learning Architect
+2359	Instructional Designer
+2359	Academic Advisor
+2359	E-Learning Developer
+2411	Financial Auditor
+2411	Budget Analyst
+2411	Tax Advisor
+2411	Financial Controller
+2411	Public Finance Accountant
+2411	Cost Analyst
+2411	Grants Management Officer
+2411	Financial Fraud Examiner
+2411	Accounting Analyst
+2411	Audit Supervisor
+2411	Bankruptcy Trustee
+2411	Dividend Analyst
+2411	Accountant
+2412	Investment Manager
+2412	Financial Planner
+2412	Corporate Investment Banker
+2412	Investment Adviser
+2412	Economic Policy Officer
+2412	Investor Relations Manager
+2412	Public Funding Advisor
+2412	Business Valuer
+2412	Venture Capitalist
+2412	Personal Trust Officer
+2412	Investment Fund Management Assistant
+2412	Risk Manager
+2412	Investment Fund Manager
+2412	Corporate Banking Manager
+2412	Relationship Banking Manager
+2412	Programme Funding Manager
+2413	Securities Analyst
+2413	Mergers And Acquisitions Analyst
+2413	Insurance Rating Analyst
+2413	Middle Office Analyst
+2413	Financial Risk Analyst
+2413	Financial Analyst
+2413	Investment Analyst
+2421	Business Intelligence Manager
+2421	Manufacturing Cost Estimator
+2421	Business Analyst
+2421	Business Consultant
+2422	Housing Policy Officer
+2422	Social Service Consultant
+2422	Regional Development Policy Officer
+2422	Competition Policy Officer
+2422	Community Development Officer
+2422	Humanitarian Advisor
+2422	Intelligence Officer
+2422	Fiscal Affairs Policy Officer
+2422	Legal Policy Officer
+2422	Cultural Policy Officer
+2422	Healthcare Consultant
+2422	Government Planning Inspector
+2422	Employment Programme Coordinator
+2422	Immigration Policy Officer
+2422	International Relations Officer
+2422	Sports Programme Coordinator
+2422	Political Affairs Officer
+2422	Agricultural Policy Officer
+2422	Labour Market Policy Officer
+2422	Environmental Policy Officer
+2422	Trade Development Officer
+2422	Policy Officer
+2422	Public Health Policy Officer
+2422	Social Services Policy Officer
+2422	Parliamentary Assistant
+2422	Foreign Affairs Officer
+2422	Education Policy Officer
+2422	Recreation Policy Officer
+2422	Civil Service Administrative Officer
+2423	Recruitment Consultant
+2423	Public Employment Service Manager
+2423	Labour Relations Officer
+2423	Career Guidance Advisor
+2423	Occupational Analyst
+2423	Human Resources Officer
+2423	Employment And Vocational Integration Consultant
+2424	Corporate Trainer
+2424	Corporate Training Manager
+2424	Business Coach
+2431	Hospitality Revenue Manager
+2431	Promotion Assistant
+2431	Online Marketer
+2431	Network Marketer
+2431	Marketeer
+2431	Advertising Media Buyer
+2431	Marketing Assistant
+2431	Membership Manager
+2431	Ebusiness Manager
+2431	Market Research Analyst
+2431	Client Relations Manager
+2431	Customer Experience Manager
+2431	Advertising Copywriter
+2431	Advertising Media Planner
+2431	Business Developer
+2431	Creative Director
+2431	Brand Manager
+2431	Advertising Specialist
+2431	Pricing Specialist
+2431	Product And Services Manager
+2432	Campaign Canvasser
+2432	Online Community Manager
+2432	Political Campaign Officer
+2432	Election Agent
+2432	Intercultural Communication Consultant
+2432	Activism Officer
+2432	Public Affairs Consultant
+2432	Spokesperson
+2432	Public Relations Officer
+2432	Fundraising Manager
+2432	Political Party Agent
+2433	Renewable Energy Consultant
+2433	Technical Sales Representative In Agricultural Machinery And Equipment
+2433	"Technical Sales Representative In Hardware, Plumbing And Heating Equipment"
+2433	Technical Sales Representative In Mining And Construction Machinery
+2433	Sales Engineer
+2433	After-Sales Service Technician
+2433	Medical Sales Representative
+2433	Technical Sales Representative In Machinery And Industrial Equipment
+2433	Technical Sales Representative In Chemical Products
+2433	Technical Sales Representative
+2433	Technical Sales Representative In The Textile Machinery Industry
+2433	Technical Sales Representative In Office Machinery And Equipment
+2433	Solar Energy Sales Consultant
+2434	Ict Presales Engineer
+2434	Ict Business Development Manager
+2434	Technical Sales Representative In Electronic And Telecommunications Equipment
+2434	Ict Account Manager
+2511	Integration Engineer
+2511	Embedded System Designer
+2511	Green Ict Consultant
+2511	Data Scientist
+2511	Enterprise Architect
+2511	Ict Intelligent Systems Designer
+2511	Ict Business Analysis Manager
+2511	Ict Research Consultant
+2511	Ict System Analyst
+2511	Ict System Developer
+2511	Ict Consultant
+2511	Ict System Integration Consultant
+2511	It Auditor
+2511	Data Analyst
+2511	Ict System Architect
+2511	Computer Scientist
+2511	User Experience Analyst
+2511	Ict Business Analyst
+2512	Software Analyst
+2512	User Interface Developer
+2512	Software Architect
+2512	Software Developer
+2513	Search Engine Optimisation Expert
+2513	User Interface Designer
+2513	Digital Games Developer
+2513	Web Content Manager
+2513	Web Developer
+2514	Mobile Application Developer
+2514	Ict Application Configurator
+2514	Embedded Systems Software Developer
+2514	Numerical Tool And Process Control Programmer
+2514	Industrial Mobile Devices Software Developer
+2514	Ict Application Developer
+2519	Ict Test Analyst
+2519	Ict Disaster Recovery Analyst
+2519	Software Tester
+2519	Digital Games Tester
+2519	Ict Accessibility Tester
+2519	Ict System Tester
+2519	Ict Usability Tester
+2519	Data Quality Specialist
+2519	Ict Integration Tester
+2519	Ict Auditor Manager
+2519	Ict Quality Assurance Manager
+2521	Data Warehouse Designer
+2521	Database Integrator
+2521	Database Administrator
+2521	Database Designer
+2521	Database Developer
+2522	Ict Network Administrator
+2522	System Configurator
+2522	Ict System Administrator
+2523	Ict Capacity Planner
+2523	Ict Network Engineer
+2523	Ict Network Architect
+2529	Ict Security Administrator
+2529	Digital Forensics Expert
+2529	Ict Security Consultant
+2529	Chief Ict Security Officer
+2529	Ethical Hacker
+2529	Ict Security Manager
+2529	Knowledge Engineer
+2529	Ict Resilience Manager
+2611	Lawyer
+2611	Prosecutor
+2611	Corporate Lawyer
+2612	Judge
+2612	Supreme Court Judge
+2612	Justice Of The Peace
+2619	Election Observer
+2619	Legal Consultant
+2619	Mediator
+2619	Ombudsman
+2619	Court Jury Coordinator
+2619	Regulatory Affairs Manager
+2619	Legislative Drafter
+2619	Human Rights Officer
+2619	Coroner
+2619	Notary
+2621	Exhibition Curator
+2621	Conservator
+2621	Exhibition Registrar
+2621	Collection Manager
+2621	Museum Scientist
+2621	Mediation And Education Manager
+2621	Arts Education Officer
+2621	Archivist
+2621	Zoo Registrar
+2622	Information Manager
+2622	Librarian
+2631	Business Economics Researcher
+2631	Economic Adviser
+2631	Economist
+2631	Economic Development Coordinator
+2631	Tax Policy Analyst
+2632	Criminologist
+2632	Sociologist
+2632	Media Scientist
+2632	Archaeologist
+2632	Social Work Researcher
+2632	Behavioural Scientist
+2632	Communication Scientist
+2632	Thanatology Researcher
+2632	Anthropologist
+2632	Geographer
+2633	Historian
+2633	Political Scientist
+2633	Genealogist
+2633	Philosopher
+2634	Educational Psychologist
+2634	Psychologist
+2634	Polygraph Examiner
+2634	Health Psychologist
+2634	Psychotherapist
+2634	Clinical Psychologist
+2635	Child Care Social Worker
+2635	Consultant Social Worker
+2635	Education Welfare Officer
+2635	Gerontology Social Worker
+2635	Social Worker
+2635	Youth Offending Team Worker
+2635	Benefits Advice Worker
+2635	Social Counsellor
+2635	Drug And Alcohol Addiction Counsellor
+2635	Clinical Social Worker
+2635	Homelessness Worker
+2635	Probation Officer
+2635	Hospital Social Worker
+2635	Crisis Situation Social Worker
+2635	Family Planning Counsellor
+2635	Community Care Case Worker
+2635	Victim Support Officer
+2635	Family Social Worker
+2635	Military Welfare Worker
+2635	Criminal Justice Social Worker
+2635	Marriage Counsellor
+2635	Mental Health Social Worker
+2635	Migrant Social Worker
+2635	Enterprise Development Worker
+2635	Social Work Supervisor
+2635	Youth Worker
+2635	Sexual Violence Counsellor
+2635	Palliative Care Social Worker
+2635	Employment Support Worker
+2635	Community Social Worker
+2635	Substance Misuse Worker
+2635	Rehabilitation Support Worker
+2635	Bereavement Counsellor
+2635	Social Pedagogue
+2635	Community Development Social Worker
+2636	Missionary
+2636	Religion Scientific Researcher
+2636	Chaplain
+2636	Minister Of Religion
+2641	Book Editor
+2641	Dramaturge
+2641	Speechwriter
+2641	Technical Communicator
+2641	Writer
+2641	Lyricist
+2641	Script Writer
+2641	Literary Scholar
+2642	Fact Checker
+2642	Newspaper Editor
+2642	Foreign Correspondent
+2642	Vlogger
+2642	Sports Journalist
+2642	Picture Editor
+2642	Copy Editor
+2642	Journalist
+2642	Blogger
+2642	Broadcast News Editor
+2642	Columnist
+2642	Editor-In-Chief
+2642	Entertainment Journalist
+2642	Crime Journalist
+2642	Business Journalist
+2642	Political Journalist
+2642	Magazine Editor
+2642	Critic
+2643	Translator
+2643	Interpreter
+2643	Lexicographer
+2643	Lawyer Linguist
+2643	Graphologist
+2643	Sign Language Interpreter
+2643	Linguist
+2643	Localiser
+2643	Subtitler
+2651	Art Restorer
+2651	Artistic Painter
+2651	Drawing Artist
+2651	Video Artist
+2651	Printmaker
+2651	Sculptor
+2651	Conceptual Artist
+2651	Storyboard Artist
+2651	Glass Artist
+2651	Mask Maker
+2651	Ceramicist
+2651	Cartoonist
+2652	Musical Conductor
+2652	Music Director
+2652	Music Arranger
+2652	Singer
+2652	Composer
+2652	Choirmaster/Choirmistress
+2652	RéPéTiteur
+2652	Musician
+2653	Dance RéPéTiteur
+2653	Dancer
+2653	Choreographer
+2653	Choreologist
+2654	Video And Motion Picture Producer
+2654	Producer
+2654	Post-Production Supervisor
+2654	Music Producer
+2654	Video And Motion Picture Editor
+2654	Radio Producer
+2655	Actor/Actress
+2655	Voice-Over Artist
+2656	Presenter
+2656	Audio Describer
+2656	News Anchor
+2659	Street Artist
+2659	Disc Jockey
+2659	Circus Artist
+2659	Puppeteer
+2659	Community Artist
+2659	Street Performer
+2659	Variety Artist
+2659	Tourist Animator
+2659	Performance Artist
+2659	Stand-Up Comedian
+3111	Meteorology Technician
+3111	Radiation Protection Technician
+3111	Food Analyst
+3111	Leather Laboratory Technician
+3111	Hydrographic Surveying Technician
+3111	Nuclear Technician
+3111	Groundwater Monitoring Technician
+3111	Soil Surveying Technician
+3111	Chemistry Technician
+3111	Chromatographer
+3111	Physics Technician
+3111	Remote Sensing Technician
+3111	Metrology Technician
+3111	Environmental Technician
+3111	Material Testing Technician
+3111	Geology Technician
+3111	Air Pollution Analyst
+3112	Domestic Energy Assessor
+3112	Civil Engineering Technician
+3112	Water Engineering Technician
+3112	Energy Conservation Officer
+3112	Construction Quality Manager
+3112	Construction Safety Manager
+3112	Sewerage Maintenance Technician
+3112	Corrosion Technician
+3112	Fire Protection Technician
+3112	Railway Infrastructure Inspector
+3112	Surveying Technician
+3112	Bridge Inspector
+3112	Construction Safety Inspector
+3112	Rail Maintenance Technician
+3112	Landfill Supervisor
+3112	Fire Safety Tester
+3112	Fire Inspector
+3112	Energy Assessor
+3112	Road Maintenance Technician
+3112	Energy Analyst
+3112	Energy Consultant
+3112	Construction Quality Inspector
+3112	Building Inspector
+3113	Electromechanical Engineering Technician
+3113	Hydropower Technician
+3113	Electrical Engineering Technician
+3113	Calibration Technician
+3114	Microelectronics Engineering Technician
+3114	Microsystem Engineering Technician
+3114	Electronics Engineering Technician
+3114	Instrumentation Engineering Technician
+3114	Medical Device Engineering Technician
+3114	Computer Hardware Engineering Technician
+3114	Sensor Engineering Technician
+3114	Avionics Inspector
+3114	Computer Hardware Test Technician
+3114	Optoelectronic Engineering Technician
+3115	Marine Engineering Technician
+3115	Aerospace Engineering Technician
+3115	Rolling Stock Engineering Technician
+3115	Production Engineering Technician
+3115	Pneumatic Engineering Technician
+3115	Marine Surveyor
+3115	"Heating, Ventilation, Air Conditioning And Refrigeration Engineering Technician"
+3115	Rolling Stock Inspector
+3115	Automotive Engineering Technician
+3115	Rolling Stock Engine Tester
+3115	Rolling Stock Engine Inspector
+3115	Motor Vehicle Engine Inspector
+3115	Industrial Maintenance Supervisor
+3115	Mechanical Engineering Technician
+3115	Aircraft Engine Tester
+3115	Motor Vehicle Engine Tester
+3115	Material Stress Analyst
+3115	Optomechanical Engineering Technician
+3115	Vessel Engine Inspector
+3115	Vessel Engine Tester
+3115	Mechatronics Engineering Technician
+3115	Aircraft Engine Inspector
+3115	Welding Inspector
+3116	Asphalt Laboratory Technician
+3116	Chemical Engineering Technician
+3116	Colour Sampling Technician
+3116	Hazardous Waste Technician
+3116	Chemical Manufacturing Quality Technician
+3117	Metallurgical Technician
+3117	Mine Surveying Technician
+3117	Geotechnician
+3117	Mine Safety Officer
+3117	Desalination Technician
+3118	Aerospace Engineering Drafter
+3118	Electromechanical Drafter
+3118	Electrical Drafter
+3118	Marine Engineering Drafter
+3118	Civil Drafter
+3118	Automotive Engineering Drafter
+3118	Architectural Drafter
+3118	Mechanical Engineering Drafter
+3118	Rolling Stock Engineering Drafter
+3118	3D Printing Technician
+3118	Computer-Aided Design Operator
+3118	Clothing Cad Technician
+3118	Printed Circuit Board Designer
+3118	Drafter
+3118	Product Development Engineering Drafter
+3118	Electronics Drafter
+3118	"Heating, Ventilation, Air Conditioning (And Refrigeration) Drafter"
+3119	Textile Quality Technician
+3119	Commissioning Technician
+3119	Footwear Product Developer
+3119	Textile Chemical Quality Technician
+3119	Photonics Engineering Technician
+3119	Utilities Inspector
+3119	Product Development Engineering Technician
+3119	Leather Goods Quality Control Laboratory Technician
+3119	Process Engineering Technician
+3119	Automation Engineering Technician
+3119	Footwear Production Technician
+3119	Textile Process Controller
+3119	Robotics Engineering Technician
+3119	Leather Goods Quality Technician
+3119	Airport Maintenance Technician
+3119	Footwear Quality Technician
+3119	Pipeline Compliance Coordinator
+3119	Quality Engineering Technician
+3119	Leather Goods Manufacturing Technician
+3119	Food Technician
+3119	Industrial Engineering Technician
+3119	Aviation Safety Officer
+3119	Leather Goods Product Developer
+3119	Footwear Quality Control Laboratory Technician
+3121	Mine Shift Manager
+3121	Mine Supervisor
+3122	Container Equipment Assembly Supervisor
+3122	Leather Goods Production Supervisor
+3122	Waste Management Supervisor
+3122	Precision Mechanics Supervisor
+3122	Vessel Assembly Supervisor
+3122	Machine Operator Supervisor
+3122	Machinery Assembly Supervisor
+3122	Production Supervisor
+3122	Optical Instrument Production Supervisor
+3122	Plastic And Rubber Products Manufacturing Supervisor
+3122	Print Studio Supervisor
+3122	Textile Operations Manager
+3122	Distillery Supervisor
+3122	Food Production Planner
+3122	Paper Mill Supervisor
+3122	Metal Production Supervisor
+3122	Electronics Production Supervisor
+3122	Dairy Processing Technician
+3122	Footwear Assembly Supervisor
+3122	Aircraft Assembly Supervisor
+3122	Footwear Production Supervisor
+3122	Electrical Equipment Production Supervisor
+3122	Industrial Assembly Supervisor
+3122	Wood Production Supervisor
+3122	Malt House Supervisor
+3122	Animal Feed Supervisor
+3122	Green Coffee Coordinator
+3122	Rolling Stock Assembly Supervisor
+3122	Motor Vehicle Assembly Supervisor
+3122	Wood Assembly Supervisor
+3122	Chemical Processing Supervisor
+3123	Insulation Supervisor
+3123	Bricklaying Supervisor
+3123	Bridge Construction Supervisor
+3123	Plumbing Supervisor
+3123	Construction General Supervisor
+3123	Tiling Supervisor
+3123	Paperhanger Supervisor
+3123	Power Lines Supervisor
+3123	Concrete Finisher Supervisor
+3123	Rail Construction Supervisor
+3123	Sewer Construction Supervisor
+3123	Lift Installation Supervisor
+3123	Construction Scaffolding Supervisor
+3123	Dismantling Supervisor
+3123	Water Conservation Technician Supervisor
+3123	Roofing Supervisor
+3123	Construction Painting Supervisor
+3123	Dredging Supervisor
+3123	Road Construction Supervisor
+3123	Terrazzo Setter Supervisor
+3123	Carpenter Supervisor
+3123	Electrical Supervisor
+3123	Demolition Supervisor
+3123	Structural Ironwork Supervisor
+3123	Plastering Supervisor
+3123	Crane Crew Supervisor
+3123	Glass Installation Supervisor
+3123	Underwater Construction Supervisor
+3131	Hydroelectric Plant Operator
+3131	Fossil-Fuel Power Plant Operator
+3131	Solar Power Plant Operator
+3131	Power Production Plant Operator
+3131	Electrical Power Distributor
+3131	Electrical Transmission System Operator
+3131	Steam Turbine Operator
+3131	Nuclear Reactor Operator
+3131	Geothermal Power Plant Operator
+3131	Power Plant Control Room Operator
+3132	Water Treatment Systems Operator
+3132	Liquid Waste Treatment Plant Operator
+3132	Incinerator Operator
+3132	Water Plant Technician
+3132	Wastewater Treatment Operator
+3132	Wastewater Treatment Technician
+3132	Solid Waste Operator
+3133	Air Separation Plant Operator
+3133	Biogas Technician
+3133	Chemical Processing Plant Controller
+3133	Chemical Plant Control Room Operator
+3133	Gas Processing Plant Supervisor
+3133	Gas Station Operator
+3134	Petroleum Pump System Operator
+3134	Oil Refinery Control Room Operator
+3134	Gas Processing Plant Control Room Operator
+3134	Refinery Shift Manager
+3134	Gas Processing Plant Operator
+3135	Metal Furnace Operator
+3139	Industrial Robot Controller
+3139	Automated Assembly Line Operator
+3139	Pulp Control Operator
+3139	Clothing Process Control Technician
+3141	Biotechnical Technician
+3141	Botanical Technician
+3141	Biology Technician
+3141	Scientific Laboratory Technician
+3141	Biochemistry Technician
+3141	Bacteriology Technician
+3141	Zoology Technician
+3142	Agricultural Technician
+3142	Aquaculture Site Supervisor
+3142	Viticulture Adviser
+3142	Aquaculture Quality Supervisor
+3143	Forestry Technician
+3151	Fisheries Refrigeration Engineer
+3151	Ship Duty Engineer
+3151	Ship Assistant Engineer
+3151	Marine Chief Engineer
+3152	Maritime Pilot
+3152	Helmsman
+3152	Deck Officer
+3152	Skipper
+3152	Ship Captain
+3153	Helicopter Pilot
+3153	Airline Transport Pilot
+3153	Commercial Pilot
+3153	Co-Pilot
+3153	Aircraft Maintenance Engineer
+3153	Private Pilot
+3153	Aircraft Pilot
+3153	Flight Instructor
+3153	Second Officer
+3153	Astronaut
+3154	Air Traffic Controller
+3154	Aeronautical Information Service Officer
+3154	Airport Operations Officer
+3154	Aviation Inspector
+3154	Flight Operations Officer
+3154	Aeronautical Information Specialist
+3155	Air Traffic Safety Technician
+3211	Clinical Perfusion Scientist
+3212	Medical Laboratory Assistant
+3212	Biomedical Scientist
+3212	Anatomical Pathology Technician
+3212	Cytology Screener
+3213	Pharmacy Technician
+3213	Pharmacy Assistant
+3214	Prosthetic-Orthotics Technician
+3214	Audiology Technician
+3214	Dental Technician
+3214	Prosthetist-Orthotist
+3222	Maternity Support Worker
+3230	Herbal Therapist
+3240	Animal Artificial Insemination Technician
+3240	Veterinary Nurse
+3240	Alternative Animal Therapist
+3240	Animal Embryo Transfer Technician
+3240	Equine Dental Technician
+3240	Veterinary Technician
+3251	Dental Chairside Assistant
+3251	Dental Hygienist
+3252	Medical Records Clerk
+3252	Picture Archiving And Communication Systems Administrator
+3252	Clinical Coder
+3252	Waiting List Coordinator
+3252	Medical Records Manager
+3253	First Aid Instructor
+3253	Community Health Worker
+3254	Optical Technician
+3254	Optician
+3255	Animal Massage Therapist
+3255	Animal Therapist
+3255	Aromatherapist
+3255	Massage Therapist
+3255	Shiatsu Practitioner
+3255	Sophrologist
+3255	Animal Hydrotherapist
+3255	Physiotherapy Assistant
+3256	Doctors' Surgery Assistant
+3257	Transport Health And Safety Inspector
+3257	Healthcare Inspector
+3257	Occupational Health And Safety Inspector
+3257	Food Safety Inspector
+3257	Environmental Health Inspector
+3257	Industrial Waste Inspector
+3257	Hazardous Materials Inspector
+3257	Food Regulatory Advisor
+3257	Hazardous Waste Inspector
+3258	Paramedic In Emergency Responses
+3258	Emergency Ambulance Driver
+3259	Anaesthetic Technician
+3259	Dietetic Technician
+3259	Respiratory Therapy Technician
+3259	Osteopath
+3259	Assistant Clinical Psychologist
+3311	Foreign Exchange Trader
+3311	Energy Trader
+3311	Stock Trader
+3311	Mortgage Broker
+3311	Securities Trader
+3311	Financial Trader
+3311	Securities Underwriter
+3311	Stock Broker
+3311	Financial Broker
+3311	Securities Broker
+3311	Mutual Fund Broker
+3311	Asset Manager
+3311	Foreign Exchange Broker
+3311	Futures Trader
+3312	Credit Analyst
+3312	Credit Adviser
+3312	Credit Manager
+3312	Bank Account Manager
+3312	Loan Officer
+3312	Mortgage Loan Underwriter
+3312	Credit Risk Analyst
+3312	Student Financial Support Coordinator
+3313	Grants Administrator
+3313	Accounting Assistant
+3313	Bookkeeper
+3314	Actuarial Assistant
+3314	Statistical Assistant
+3315	Insurance Claims Handler
+3315	Foreclosure Specialist
+3315	Insurance Fraud Investigator
+3315	Property Appraiser
+3315	Real Estate Surveyor
+3315	Loss Adjuster
+3315	Personal Property Appraiser
+3315	Gemmologist
+3321	Property Insurance Underwriter
+3321	Insurance Risk Consultant
+3321	Insurance Broker
+3321	Insurance Underwriter
+3322	Commercial Sales Representative
+3322	Electricity Sales Representative
+3322	Renewable Energy Sales Representative
+3323	Green Coffee Buyer
+3323	Purchaser
+3323	Set Buyer
+3323	Ict Buyer
+3323	Timber Trader
+3323	Costume Buyer
+3323	Purchase Planner
+3323	Textile Sourcing Merchandiser
+3324	Wholesale Merchant In Perfume And Cosmetics
+3324	Wholesale Merchant In Household Goods
+3324	Commodity Broker
+3324	Wholesale Merchant In Electronic And Telecommunications Equipment And Parts
+3324	"Wholesale Merchant In Fish, Crustaceans And Molluscs"
+3324	"Wholesale Merchant In Computers, Computer Peripheral Equipment And Software"
+3324	Wholesale Merchant
+3324	"Wholesale Merchant In Hides, Skins And Leather Products"
+3324	Wholesale Merchant In Pharmaceutical Goods
+3324	Non-Vessel Operating Common Carrier
+3324	Wholesale Merchant In Meat And Meat Products
+3324	Wholesale Merchant In Dairy Products And Edible Oils
+3324	"Wholesale Merchant In Machinery, Industrial Equipment, Ships And Aircraft"
+3324	"Wholesale Merchant In Furniture, Carpets And Lighting Equipment"
+3324	"Wholesale Merchant In Sugar, Chocolate And Sugar Confectionery"
+3324	Wholesale Merchant In Textile Industry Machinery
+3324	"Wholesale Merchant In Coffee, Tea, Cocoa And Spices"
+3324	Wholesale Merchant In Waste And Scrap
+3324	Wholesale Merchant In Office Machinery And Equipment
+3324	Wholesale Merchant In Watches And Jewellery
+3324	"Wholesale Merchant In Agricultural Raw Materials, Seeds And Animal Feeds"
+3324	Wholesale Merchant In China And Other Glassware
+3324	Shipbroker
+3324	Wholesale Merchant In Machine Tools
+3324	Wholesale Merchant In Electrical Household Appliances
+3324	Wholesale Merchant In Textiles And Textile Semi-Finished And Raw Materials
+3324	Wholesale Merchant In Office Furniture
+3324	"Wholesale Merchant In Hardware, Plumbing And Heating Equipment And Supplies"
+3324	"Wholesale Merchant In Mining, Construction And Civil Engineering Machinery"
+3324	Wholesale Merchant In Metals And Metal Ores
+3324	Wholesale Merchant In Chemical Products
+3324	Wholesale Merchant In Tobacco Products
+3324	Wholesale Merchant In Clothing And Footwear
+3324	Wholesale Merchant In Wood And Construction Materials
+3324	Wholesale Merchant In Live Animals
+3324	Wholesale Merchant In Beverages
+3324	Waste Broker
+3324	Commodity Trader
+3324	Wholesale Merchant In Agricultural Machinery And Equipment
+3324	Wholesale Merchant In Flowers And Plants
+3324	Wholesale Merchant In Fruit And Vegetables
+3331	Import Export Specialist In Wood And Construction Materials
+3331	"Import Export Specialist In Agricultural Raw Materials, Seeds And Animal Feeds"
+3331	Import Export Specialist In Meat And Meat Products
+3331	Forwarding Manager
+3331	Import Export Specialist In Fruit And Vegetables
+3331	"Import Export Specialist In Hardware, Plumbing And Heating Equipment"
+3331	Import Export Specialist In Beverages
+3331	Import Export Specialist In Flowers And Plants
+3331	International Forwarding Operations Coordinator
+3331	Import Export Specialist
+3331	Import Export Specialist In Office Furniture
+3331	Import Export Specialist In Household Goods
+3331	"Import Export Specialist In Sugar, Chocolate And Sugar Confectionery"
+3331	Import Export Specialist In Live Animals
+3331	"Import Export Specialist In Computers, Peripheral Equipment And Software"
+3331	Import Export Specialist In Watches And Jewellery
+3331	Shipping Agent
+3331	Import Export Specialist In Agricultural Machinery And Equipment
+3331	Import Export Specialist In Pharmaceutical Goods
+3331	"Import Export Specialist In Furniture, Carpets And Lighting Equipment"
+3331	Customs And Excise Officer
+3331	Import Export Specialist In Clothing And Footwear
+3331	"Import Export Specialist In Machinery, Industrial Equipment, Ships And Aircraft"
+3331	"Import Export Specialist In  Fish, Crustaceans And Molluscs"
+3331	"Import Export Specialist In Mining, Construction, Civil Engineering Machinery"
+3331	Import Export Specialist In Office Machinery And Equipment
+3331	Import Export Specialist In Waste And Scrap
+3331	Import Export Specialist In Electronic And Telecommunications Equipment
+3331	Import Export Specialist In Tobacco Products
+3331	Import Export Specialist In China And Other Glassware
+3331	Import Export Specialist In Perfume And Cosmetics
+3331	Import Export Specialist In Textiles And Textile Semi-Finished And Raw Materials
+3331	Import Export Specialist In Metals And Metal Ores
+3331	Import Export Specialist In Electrical Household Appliances
+3331	Import Export Specialist In Chemical Products
+3331	Import Export Specialist In Machine Tools
+3331	Import Export Specialist In Textile Industry Machinery
+3331	"Import Export Specialist In Coffee, Tea, Cocoa And Spices"
+3331	Import Export Specialist In Dairy Products And Edible Oils
+3331	"Import Export Specialist In Hides, Skins And Leather Products"
+3332	Event Manager
+3332	Wedding Planner
+3332	Event Assistant
+3332	Venue Director
+3333	Employment Agent
+3334	Real Estate Manager
+3334	Real Estate Investor
+3334	Real Estate Agent
+3334	Title Closer
+3334	Property Acquisitions Manager
+3334	Real Estate Leasing Manager
+3334	Letting Agent
+3334	Housing Manager
+3339	Tour Operators Manager
+3339	Publishing Rights Manager
+3339	Relocation Officer
+3339	Promoter
+3339	Venue Programmer
+3339	Tourism Contract Negotiator
+3339	Hospitality Entertainment Manager
+3339	Intellectual Property Consultant
+3339	Talent Agent
+3339	Auctioneer
+3339	Advertising Sales Agent
+3341	Field Survey Manager
+3341	Call Centre Analyst
+3341	Call Centre Quality Auditor
+3341	Call Centre Supervisor
+3341	Office Manager
+3341	Contact Centre Supervisor
+3341	Data Entry Supervisor
+3341	Call Centre Manager
+3342	Legal Administrative Assistant
+3342	Civil Registrar
+3343	Administrative Assistant
+3343	Fundraising Assistant
+3343	Executive Assistant
+3343	Scopist
+3343	Education Administrator
+3343	Management Assistant
+3343	Court Reporter
+3343	Editorial Assistant
+3343	Supply Chain Assistant
+3343	International Student Exchange Coordinator
+3344	Medical Administrative Assistant
+3344	Medical Transcriptionist
+3344	Chiropractic Assistant
+3344	Medical Practice Manager
+3351	Customs Officer
+3351	Immigration Officer
+3351	Hand Luggage Inspector
+3352	Tax Compliance Officer
+3352	Tax Inspector
+3353	Social Security Inspector
+3353	Social Security Officer
+3353	Pensions Administrator
+3354	Licensing Officer
+3354	Passport Officer
+3354	Immigration Adviser
+3355	Police Detective
+3355	Criminal Investigator
+3355	Police Inspector
+3359	Marine Cargo Inspector
+3359	Health And Safety Inspector
+3359	Gaming Inspector
+3359	Freight Inspector
+3359	Forestry Inspector
+3359	Agricultural Inspector
+3359	Fisheries Observer
+3359	Consumer Rights Advisor
+3359	Weights And Measures Inspector
+3411	Court Clerk
+3411	Court Bailiff
+3411	Store Detective
+3411	Private Detective
+3411	Legal Assistant
+3411	Court Administrative Officer
+3411	Conveyance Clerk
+3411	Court Enforcement Officer
+3411	Case Administrator
+3412	Legal Guardian
+3412	Foster Care Support Worker
+3412	Child Welfare Worker
+3412	Family Support Worker
+3412	Residential Childcare Worker
+3412	Housing Support Worker
+3412	Social Work Assistant
+3412	Residential Home Older Adult Care Worker
+3412	Mental Health Support Worker
+3412	Residential Home Young People Care Worker
+3412	Residential Home Adult Care Worker
+3412	Residential Care Home Worker
+3412	Social Care Worker
+3412	Crisis Helpline Operator
+3412	Disability Support Worker
+3412	Adult Community Care Worker
+3412	Care At Home Worker
+3412	Life Coach
+3413	Monk/Nun
+3413	Pastoral Worker
+3421	Professional Athlete
+3422	Golf Instructor
+3422	Boxing Instructor
+3422	Sports Instructor
+3422	Ice-Skating Coach
+3422	Sport Official
+3422	Football Coach
+3422	Sports Coach
+3422	Artistic Coach
+3422	Lifeguard Instructor
+3422	Swimming Teacher
+3422	Snowboard Instructor
+3422	Ski Instructor
+3422	Tennis Coach
+3423	Horse Riding Instructor
+3423	Activity Leader
+3423	Vessel Steering Instructor
+3423	Sport Therapist
+3423	Pilates Teacher
+3423	Assistant Outdoor Animator
+3423	Survival Instructor
+3423	Outdoor Activities Instructor
+3423	Outdoor Animator
+3423	Outdoor Activities Coordinator
+3423	Mountain Guide
+3423	Leisure Attendant
+3423	Specialised Outdoor Animator
+3423	Fitness Instructor
+3423	Personal Trainer
+3431	Photojournalist
+3431	Photographer
+3432	Set Builder
+3432	Visual Merchandiser
+3432	Scenic Painter
+3432	Interior Designer
+3432	Interior Planner
+3432	Set Designer
+3432	Miniature Set Designer
+3432	Merchandiser
+3433	Big Data Archive Librarian
+3433	Art Handler
+3433	Taxidermist
+3434	Head Chef
+3434	Chef
+3434	Pastry Chef
+3434	Private Chef
+3434	Head Pastry Chef
+3435	Lighting Designer
+3435	Automated Fly Bar Operator
+3435	Intelligent Lighting Engineer
+3435	Stage Manager
+3435	Stand-In
+3435	Dresser
+3435	Costume Attendant
+3435	Body Artist
+3435	Stage Machinist
+3435	Pyrotechnician
+3435	Scenery Technician
+3435	Assistant Video And Motion Picture Director
+3435	Prop Maker
+3435	Head Of Workshop
+3435	Broadcasting Programme Director
+3435	Stunt Performer
+3435	Light Board Operator
+3435	Location Manager
+3435	Prompter
+3435	Script Supervisor
+3435	Lighting Technician
+3435	Pyrotechnic Designer
+3435	Stage Technician
+3435	Prop Master/Prop Mistress
+3435	Flying Director
+3435	Fight Director
+3435	Followspot Operator
+3435	Assistant Stage Director
+3435	Extra
+3435	Theatre Technician
+3511	Data Centre Operator
+3512	Ict Help Desk Manager
+3512	Ict Technician
+3512	Ict Security Technician
+3512	Ict Help Desk Agent
+3513	Aviation Data Communications Manager
+3513	Ict Network Technician
+3514	Webmaster
+3521	Video Operator
+3521	Sound Operator
+3521	Mastering Engineer
+3521	Audio Production Technician
+3521	Sound Editor
+3521	Performance Rental Technician
+3521	Boom Operator
+3521	Camera Operator
+3521	Audio-Visual Technician
+3521	Sound Designer
+3521	Video Technician
+3521	Recording Studio Technician
+3521	Sound Artist
+3521	Projectionist
+3521	Broadcast Technician
+3522	Telecommunications Engineering Technician
+4110	Membership Administrator
+4110	Office Clerk
+4110	Engineering Assistant
+4120	Secretary
+4131	Typist
+4132	Data Entry Clerk
+4211	Bank Teller
+4211	Post Office Counter Clerk
+4212	Bookmaker
+4212	Bingo Caller
+4212	Odds Compiler
+4212	Casino Cashier
+4212	Casino Pit Boss
+4212	Lottery Operator
+4212	Tote Operator
+4212	Casino Gaming Manager
+4212	Gaming Dealer
+4213	Pawnbroker
+4214	Insurance Collector
+4214	Debt Collector
+4221	Travel Consultant
+4221	Tour Organiser
+4221	Ground Steward/Ground Stewardess
+4221	Travel Agent
+4221	Railway Sales Agent
+4221	Tourist Information Officer
+4221	Tour Operator Representative
+4221	Ticket Sales Agent
+4222	Customer Contact Centre Information Clerk
+4222	Live Chat Operator
+4223	Telephone Switchboard Operator
+4223	Emergency Medical Dispatcher
+4224	Hospitality Establishment Receptionist
+4224	Camping Ground Operative
+4225	Customer Service Representative
+4226	Front Line Medical Receptionist
+4226	Night Auditor
+4226	Veterinary Receptionist
+4226	Receptionist
+4227	Market Research Interviewer
+4227	Survey Enumerator
+4229	Hotel Concierge
+4311	Sales Support Assistant
+4311	Billing Clerk
+4312	Auditing Clerk
+4312	Financial Markets Back Office Administrator
+4312	Tax Clerk
+4312	Insurance Clerk
+4312	Back Office Specialist
+4312	Foreign Exchange Cashier
+4312	Property Assistant
+4312	Investment Clerk
+4313	Payroll Clerk
+4321	Warehouse Operators For Clothing
+4321	Footwear Factory Warehouse Operator
+4321	Raw Materials Warehouse Specialist
+4321	Leather Goods Warehouse Operator
+4321	Inventory Coordinator
+4321	Raw Material Reception Operator
+4322	Machinery Assembly Coordinator
+4323	Vessel Operations Coordinator
+4323	Ship Planner
+4323	Rail Logistics Coordinator
+4323	Freight Transport Dispatcher
+4323	Gas Transmission System Operator
+4323	Pipeline Route Manager
+4323	Taxi Controller
+4323	Bus Route Supervisor
+4323	Aircraft Dispatcher
+4323	Dangerous Goods Safety Adviser
+4323	Water Traffic Coordinator
+4323	Road Transport Maintenance Scheduler
+4323	Ship Pilot Dispatcher
+4323	Gas Scheduling Representative
+4323	Baggage Flow Supervisor
+4323	Tram Controller
+4323	Aircraft Cargo Operations Coordinator
+4323	Move Coordinator
+4323	Rail Traffic Controller
+4323	Port Coordinator
+4411	Library Assistant
+4412	Mail Clerk
+4412	Postman/Postwoman
+4413	Proofreader
+4415	File Clerk
+4416	Human Resources Assistant
+4419	Advertising Assistant
+4419	Foreign Language Correspondence Clerk
+5111	Steward/Stewardess
+5111	Ship Steward/Ship Stewardess
+5111	Cabin Crew Manager
+5111	Flight Attendant
+5111	Train Attendant
+5112	Passenger Fare Controller
+5112	Railway Passenger Service Agent
+5112	Chief Conductor
+5112	Train Conductor
+5113	Environmental Education Officer
+5113	Park Guide
+5113	Zoo Educator
+5113	Guide
+5120	Industrial Cook
+5120	Cook
+5120	Diet Cook
+5120	Fish Cook
+5120	Grill Cook
+5131	Wine Sommelier
+5131	Sommelier
+5131	Head Waiter/Head Waitress
+5131	Beer Sommelier
+5131	Restaurant Host/Restaurant Hostess
+5131	Head Sommelier
+5131	Waiter/Waitress
+5132	Bartender
+5132	Barista
+5132	Cocktail Bartender
+5141	Hairdresser
+5141	Barber
+5141	Hairdresser Assistant
+5141	Hair Stylist
+5141	Performance Hairdresser
+5142	Masseur/Masseuse
+5142	Spa Attendant
+5142	Pedicurist
+5142	Make-Up Artist
+5142	Make-Up And Hair Designer
+5142	Hair Removal Technician
+5142	Weight Loss Consultant
+5142	Aesthetician
+5142	Manicurist
+5142	Tanning Consultant
+5142	Beauty Salon Attendant
+5142	Personal Stylist
+5151	Hotel Butler
+5151	Housekeeping Supervisor
+5152	Bed And Breakfast Operator
+5152	Domestic Housekeeper
+5152	Domestic Butler
+5153	Building Caretaker
+5153	Amusement Park Cleaner
+5153	Verger
+5153	House Sitter
+5161	Medium
+5161	Astrologer
+5161	Fortune Teller
+5161	Psychic
+5162	Companion
+5163	Funeral Services Director
+5163	Cemetery Attendant
+5163	Funeral Attendant
+5163	Embalmer
+5164	Animal Care Attendant
+5164	Kennel Worker
+5164	Animal Handler
+5164	Dog Trainer
+5164	Dog Breeder
+5164	Animal Welfare Inspector
+5164	Horse Trainer
+5164	Animal Groomer
+5164	Zoo Section Leader
+5164	Guide Dog Instructor
+5164	Cattle Pedicure
+5164	Animal Shelter Worker
+5164	Pet Sitter
+5164	Game Keeper
+5164	Kennel Supervisor
+5164	Zookeeper
+5164	Animal Trainer
+5165	Motorcycle Instructor
+5165	Bus Driving Instructor
+5165	Car Driving Instructor
+5165	Driving Instructor
+5165	Truck Driving Instructor
+5169	Club Host/Club Hostess
+5169	Escort
+5169	Dating Service Consultant
+5211	Market Vendor
+5212	Street Food Vendor
+5221	Retail Entrepreneur
+5222	Shop Supervisor
+5222	Checkout Supervisor
+5223	Hardware And Paint Specialised Seller
+5223	Fish And Seafood Specialised Seller
+5223	Motor Vehicles Parts Advisor
+5223	Shop Assistant
+5223	Ammunition Specialised Seller
+5223	Sporting Accessories Specialised Seller
+5223	Bookshop Specialised Seller
+5223	Clothing Specialised Seller
+5223	Confectionery Specialised Seller
+5223	Bakery Specialised Seller
+5223	Car Leasing Agent
+5223	Pet And Pet Food Specialised Seller
+5223	Audiology Equipment Specialised Seller
+5223	"Computer Games, Multimedia And Software Specialised Seller"
+5223	Second-Hand Goods Specialised Seller
+5223	Furniture Specialised Seller
+5223	Computer And Accessories Specialised Seller
+5223	Fruit And Vegetables Specialised Seller
+5223	Textile Specialised Seller
+5223	Specialised Seller
+5223	Eyewear And Optical Equipment Specialised Seller
+5223	Beverages Specialised Seller
+5223	Motor Vehicles Specialised Seller
+5223	Building Materials Specialised Seller
+5223	Shoe And Leather Accessories Specialised Seller
+5223	Sales Processor
+5223	Cosmetics And Perfume Specialised Seller
+5223	Jewellery And Watches Specialised Seller
+5223	Toys And Games Specialised Seller
+5223	Domestic Appliances Specialised Seller
+5223	Orthopaedic Supplies Specialised Seller
+5223	Meat And Meat Products Specialised Seller
+5223	Sales Assistant
+5223	Audio And Video Equipment Specialised Seller
+5223	Medical Goods Specialised Seller
+5223	Tobacco Specialised Seller
+5223	Flower And Garden Specialised Seller
+5223	Press And Stationery Specialised Seller
+5223	Floor And Wall Coverings Specialised Seller
+5223	Music And Video Shop Specialised Seller
+5223	Delicatessen Specialised Seller
+5223	Telecommunications Equipment Specialised Seller
+5223	Specialised Antique Dealer
+5223	Personal Shopper
+5230	Cashier
+5230	Lottery Cashier
+5230	Ticket Issuing Clerk
+5241	Fashion Model
+5241	Art Model
+5242	Promotions Demonstrator
+5243	Door To Door Seller
+5244	Call Centre Agent
+5245	Fuel Station Specialised Seller
+5246	Quick Service Restaurant Team Leader
+5246	Airline Food Service Worker
+5249	"Rental Service Representative In Machinery, Equipment And Tangible Goods"
+5249	Rental Service Representative In Personal And Household Goods
+5249	Rental Service Representative
+5249	Vehicle Rental Agent
+5249	Rental Service Representative In Water Transport Equipment
+5249	Rental Service Representative In Office Machinery And Equipment
+5249	Rental Service Representative In Air Transport Equipment
+5249	Rental Service Representative In Construction And Civil Engineering Machinery
+5249	Rental Service Representative In Trucks
+5249	Rental Service Representative In Recreational And Sports Goods
+5249	Rental Service Representative In Agricultural Machinery And Equipment
+5249	Rental Service Representative In Video Tapes And Disks
+5249	Rental Manager
+5249	Rental Service Representative In Cars And Light Motor Vehicles
+5311	Nanny
+5311	Child Care Worker
+5311	Child Day Care Worker
+5311	School Bus Attendant
+5311	Babysitter
+5311	Au Pair
+5312	Primary School Teaching Assistant
+5312	Special Educational Needs Assistant
+5312	Early Years Teaching Assistant
+5312	Secondary School Teaching Assistant
+5321	Nurse Assistant
+5321	Healthcare Assistant
+5322	Home Care Aide
+5329	Phlebotomist
+5329	Sterile Services Technician
+5329	Hospital Porter
+5411	Industrial Firefighter
+5411	Pump Operator
+5411	Firefighter
+5411	Marine Firefighter
+5411	Mine Rescue Officer
+5412	Police Officer
+5413	Prison Officer
+5413	Juvenile Correctional Officer
+5414	Security Guard
+5414	Security Guard Supervisor
+5414	Door Supervisor
+5414	Gate Guard
+5414	Crowd Controller
+5414	Security Alarm Investigator
+5414	Airport Security Officer
+5414	Security Consultant
+5414	Hospitality Establishment Security Officer
+5414	Bodyguard
+5414	Armoured Car Guard
+5419	Crossing Guard
+5419	Life Guard
+5419	Street Warden
+5419	Aircraft Marshaller
+5419	Civil Enforcement Officer
+5419	Coastguard Watch Officer
+5419	Emergency Response Worker
+6111	Agronomic Crop Production Team Leader
+6112	Vineyard Machinery Operator
+6112	Vineyard Supervisor
+6112	Fruit Production Team Leader
+6112	Vineyard Manager
+6112	Hop Farmer
+6112	Arboriculturist
+6112	Vineyard Cellar Master
+6113	Horticulture Worker
+6113	Horticulture Production Team Leader
+6113	Interior Landscaper
+6113	Groundsman/Groundswoman
+6113	Horticulture Production Manager
+6113	Landscape Gardener
+6113	Tree Surgeon
+6114	Crop Production Manager
+6121	Horse Breeder
+6121	Shepherd
+6121	Equine Yard Manager
+6121	Sheep Breeder
+6121	Cattle Breeder
+6121	Pig Breeder
+6122	Poultry Sexer
+6122	Poultry Breeder
+6123	Bee Breeder
+6129	Fur Animals Breeder
+6130	Mixed Farmer
+6130	Farm Manager
+6210	Forest Ranger
+6221	Aquaculture Hatchery Manager
+6221	Water-Based Aquaculture Technician
+6221	Aquaculture Cage Technician
+6221	Aquaculture Rearing Technician
+6221	Aquaculture Hatchery Worker
+6221	Aquaculture Husbandry Worker
+6221	Aquaculture Mooring Manager
+6221	Aquaculture Harvesting Technician
+6221	Aquaculture Husbandry Technician
+6221	Aquaculture Hatchery Technician
+6221	Aquaculture Recirculation Technician
+6222	Fisheries Boatman
+6223	Deep-Sea Fishery Worker
+6223	Fisheries Master
+6223	Fisheries Boatmaster
+6224	Hunter
+7111	House Builder
+7112	Bricklayer
+7113	Stone Engraver
+7113	Stonemason
+7114	Terrazzo Setter
+7114	Concrete Finisher
+7115	Door Installer
+7115	Staircase Installer
+7115	Carpenter
+7115	Window Installer
+7115	Kitchen Unit Installer
+7119	Construction Scaffolder
+7119	Manufactured Wooden Building Assembler
+7119	Steeplejack
+7119	Demolition Worker
+7121	Roofer
+7122	Tile Fitter
+7122	Resilient Floor Layer
+7122	Hardwood Floor Layer
+7122	Carpet Fitter
+7123	Ceiling Installer
+7123	Plasterer
+7124	Insulation Worker
+7125	Vehicle Glazier
+7125	Plate Glass Installer
+7126	Sprinkler Fitter
+7126	Water Network Operative
+7126	Water Conservation Technician
+7126	Bathroom Fitter
+7126	Drain Technician
+7126	Irrigation Technician
+7126	Sewerage Network Operative
+7126	Heating Engineer
+7126	Sewer Construction Worker
+7126	Pipeline Maintenance Worker
+7126	Septic Tank Servicer
+7126	Gas Service Technician
+7126	Plumber
+7126	Irrigation System Installer
+7127	"Heating, Ventilation, Air Conditioning (And Refrigeration) Service Engineer"
+7131	Construction Painter
+7131	Paperhanger
+7132	Lacquer Spray Gun Operator
+7132	Transport Equipment Painter
+7132	Surface Treatment Operator
+7133	Chimney Sweep Supervisor
+7133	Asbestos Abatement Worker
+7133	Chimney Sweep
+7133	Building Exterior Cleaner
+7133	Decontamination Worker
+7211	Coquille Casting Worker
+7211	Mouldmaker
+7211	Foundry Moulder
+7211	Foundry Operative
+7212	Solderer
+7212	Pipe Welder
+7212	Brazier
+7212	Welder
+7212	Spot Welder
+7212	Laser Beam Welder
+7212	Welding Coordinator
+7212	Electron Beam Welder
+7213	Container Equipment Assembler
+7213	Coppersmith
+7213	Sheet Metal Worker
+7213	Boilermaker
+7214	Riveter
+7214	Structural Ironworker
+7214	Shipwright
+7214	Dismantling Worker
+7215	High Rigger
+7215	Boat Rigger
+7215	Event Scaffolder
+7215	Tent Installer
+7215	Rigging Supervisor
+7215	Rigger
+7215	Ground Rigger
+7215	Stagehand
+7221	Hydraulic Forging Press Worker
+7221	Drop Forging Hammer Worker
+7221	Mechanical Forging Press Worker
+7221	Farrier
+7221	Blacksmith
+7222	Gunsmith
+7222	Casting Mould Maker
+7222	Locksmith
+7222	Precision Mechanic
+7222	Tool And Die Maker
+7223	Gear Machinist
+7223	Boring Machine Operator
+7223	Briquetting Machine Operator
+7223	Plasma Cutting Machine Operator
+7223	Engraving Machine Operator
+7223	Spark Erosion Machine Operator
+7223	Grinding Machine Operator
+7223	Water Jet Cutter Operator
+7223	Moulding Machine Operator
+7223	Screw Machine Operator
+7223	Metal Sawing Machine Operator
+7223	Computer Numerical Control Machine Operator
+7223	Oxy Fuel Burning Machine Operator
+7223	Stamping Press Operator
+7223	Lathe And Turning Machine Operator
+7223	Metal Nibbling Operator
+7223	Laser Marking Machine Operator
+7223	Thread Rolling Machine Operator
+7223	Metalworking Lathe Operator
+7223	Fitter And Turner
+7223	Upsetting Machine Operator
+7223	Router Operator
+7223	Milling Machine Operator
+7223	Heat Treatment Furnace Operator
+7223	Metal Planer Operator
+7223	Straightening Machine Operator
+7223	Drill Press Operator
+7223	Chain Making Machine Operator
+7223	Laser Cutting Machine Operator
+7223	Ornamental Metal Worker
+7223	Scrap Metal Operative
+7223	Swaging Machine Operator
+7223	Drilling Machine Operator
+7223	Punch Press Operator
+7224	Tool Grinder
+7224	Metal Polisher
+7231	Refurbishing Technician
+7231	Restoration Technician
+7231	Diesel Engine Mechanic
+7231	Vehicle Maintenance Supervisor
+7231	Vehicle Maintenance Attendant
+7231	Vehicle Technician
+7231	Coachbuilder
+7231	Tyre Fitter
+7231	Automotive Brake Technician
+7231	Roadside Vehicle Technician
+7232	Aircraft Engine Specialist
+7232	Aircraft Gas Turbine Engine Overhaul Technician
+7232	Aircraft Maintenance Technician
+7232	Aircraft De-Icer Installer
+7232	Aircraft Maintenance Coordinator
+7233	Land-Based Machinery Technician
+7233	Fluid Power Technician
+7233	Greaser
+7233	Rotating Equipment Mechanic
+7233	Industrial Machinery Mechanic
+7233	Textile Machinery Technician
+7233	Pneumatic Systems Technician
+7233	Forge Equipment Technician
+7233	Moulding Machine Technician
+7233	Fisheries Assistant Engineer
+7233	Marine Mechanic
+7233	Mining Equipment Mechanic
+7233	Construction Equipment Technician
+7233	Crane Technician
+7233	Forestry Machinery Technician
+7233	Agricultural Machinery Technician
+7234	Bicycle Mechanic
+7311	Clock And Watchmaker
+7311	Optical Instrument Assembler
+7311	Watch And Clock Repairer
+7311	Optical Instrument Repairer
+7311	Surgical Instrument Maker
+7311	Precision Instrument Assembler
+7312	Stringed Musical Instrument Maker
+7312	Harpsichord Maker
+7312	Musical Instrument Technician
+7312	Instrument Technician
+7312	Guitar Maker
+7312	Piano Maker
+7312	Membranophone Musical Instruments Maker
+7312	Harp Maker
+7312	Keyboard Musical Instrument Maker
+7312	Organ Builder
+7312	Violin Maker
+7312	Idiophone Musical Instruments Maker
+7312	Wind Musical Instrument Maker
+7313	Filigree Maker
+7313	Jewellery Engraver
+7313	Jeweller
+7313	Precious Stone Setter
+7313	Precious Stone Cutter
+7313	Jewellery Mounter
+7313	Goldsmith
+7313	Jewellery Repairer
+7313	Jewellery Polisher
+7313	Silversmith
+7314	Hand Brick Moulder
+7314	Production Potter
+7315	Glass-Blower
+7315	Glass Beveller
+7316	Ceramic Painter
+7316	Glass Engraver
+7316	Decorative Painter
+7316	Glass Painter
+7316	Metal Engraver
+7316	Wood Painter
+7316	Sign Maker
+7316	Porcelain Painter
+7317	Toymaker
+7317	Wicker Furniture Maker
+7317	Brush Maker
+7317	Artisan Papermaker
+7317	Basketmaker
+7317	Woodcarver
+7318	Weaver
+7318	Knitter
+7318	Leather Goods Artisanal Worker
+7318	Carpet Handicraft Worker
+7318	Carpet Weaver
+7318	Fishing Net Maker
+7319	Sports Equipment Repair Technician
+7319	Candle Maker
+7321	Imagesetter
+7321	Prepress Technician
+7321	Lithographer
+7321	Typesetter
+7321	Scanning Operator
+7321	Prepress Operator
+7321	Screen Making Technician
+7322	Flexographic Press Operator
+7322	Printing Textile Technician
+7322	Paper Embosing Press Operator
+7322	Textile Printer
+7322	Digital Printer
+7322	Reprographics Technician
+7322	Gravure Press Operator
+7322	Screen Printer
+7322	Hot Foil Operator
+7322	Offset Printer
+7323	Book Restorer
+7323	Bindery Operator
+7323	Book-Sewing Machine Operator
+7323	Print Folding Operator
+7411	Building Electrician
+7411	Electrician
+7411	Domestic Electrician
+7411	Industrial Electrician
+7411	Solar Energy Technician
+7411	Event Electrician
+7411	Electric Meter Technician
+7412	Automotive Battery Technician
+7412	Electrical Mechanic
+7412	Ride Technician
+7412	Automotive Electrician
+7412	Power Tool Repair Technician
+7412	Ground Lighting Officer
+7412	Marine Electrician
+7412	Wind Turbine Technician
+7412	Mining Electrician
+7412	Household Appliances Repair Technician
+7412	Lift Engineer
+7412	Rolling Stock Electrician
+7413	Cable Jointer
+7413	Overhead Line Worker
+7413	Electricity Distribution Worker
+7413	Street Lighting Electrician
+7421	Marine Electronics Technician
+7421	Atm Repair Technician
+7421	Railway Electronic Technician
+7421	Office Equipment Repair Technician
+7421	Avionics Technician
+7421	Vehicle Electronics Installer
+7421	Consumer Electronics Repair Technician
+7422	Telecommunications Technician
+7422	Communication Infrastructure Maintainer
+7422	Radio Technician
+7422	Mobile Devices Technician
+7422	Computer Hardware Repair Technician
+7422	Security Alarm Technician
+7422	Telecommunications Equipment Maintainer
+7422	Mobile Phone Repair Technician
+7511	Meat Cutter
+7511	Slaughterer
+7511	Butcher
+7511	Halal Butcher
+7511	Fish Trimmer
+7511	Meat Preparations Operator
+7511	Fish Preparation Operator
+7511	Kosher Slaughterer
+7511	Kosher Butcher
+7511	Halal Slaughterer
+7512	Baker
+7512	Pasta Maker
+7512	Chocolatier
+7512	Confectioner
+7512	Pastry Maker
+7513	Dairy Products Maker
+7513	Milk Reception Operator
+7514	Oilseed Presser
+7514	Oil Mill Operator
+7514	Fruit And Vegetable Preserver
+7515	Coffee Taster
+7515	Master Coffee Roaster
+7515	Farm Milk Controller
+7515	Food Grader
+7515	Malt Master
+7516	Curing Room Worker
+7516	Leaf Sorter
+7516	Leaf Tier
+7521	Wood Drying Kiln Operator
+7521	Wood Treater
+7522	Frame Maker
+7522	Cooper
+7522	Antique Furniture Reproducer
+7522	Furniture Restorer
+7522	Recreation Model Maker
+7522	Cabinet Maker
+7522	Furniture Finisher
+7523	Wood Sander
+7523	Wooden Furniture Machine Operator
+7523	Wood Boring Machine Operator
+7523	Wood Pallet Maker
+7523	Woodturner
+7523	Nailing Machine Operator
+7531	Dressmaker
+7531	Tailor
+7531	Costume Maker
+7531	Wig And Hairpiece Maker
+7531	Hide Grader
+7531	Milliner
+7532	Clothing Product Grader
+7532	Wearing Apparel Patternmaker
+7532	Digital Prototyper
+7532	Leather Goods Cad Patternmaker
+7532	Leather Goods Patternmaker
+7532	Clothing Cad Patternmaker
+7532	Clothing Cutter
+7533	Made-Up Textile Articles Manufacturer
+7533	Sewing Machinist
+7533	Embroiderer
+7533	Glove Maker
+7533	Doll Maker
+7534	Marine Upholsterer
+7534	Railway Car Upholsterer
+7534	Mattress Maker
+7534	Upholsterer
+7534	Aircraft Interior Technician
+7534	Motor Vehicle Upholsterer
+7534	Furniture Upholsterer
+7535	Leather Sorter
+7536	Bespoke Footwear Technician
+7536	Hand Lasting Operator
+7536	Orthopaedic Footwear Technician
+7536	Leather Goods Hand Cutting Operator
+7536	Leather Goods Manual Operator
+7536	Footwear Cad Patternmaker
+7536	Leather Goods Finishing Operator
+7536	Footwear Patternmaker
+7536	Footwear Hand Sewer
+7536	Shoe Repairer
+7536	Leather Goods Hand Stitcher
+7536	Shoemaker
+7541	Harvest Diver
+7541	Construction Commercial Diver
+7541	Rescue Diver
+7542	Shotfirer
+7543	Precision Device Inspector
+7543	Electrical Equipment Inspector
+7543	Electronic Equipment Inspector
+7543	Printed Circuit Board Test Technician
+7543	Automotive Test Driver
+7543	Footwear Quality Controller
+7543	Engineered Wood Board Grader
+7543	Pulp Grader
+7543	Leather Goods Quality Controller
+7543	Clothing Quality Inspector
+7543	Automated Optical Inspection Operator
+7543	Battery Test Technician
+7543	Product Quality Inspector
+7543	Consumer Goods Inspector
+7543	Product Assembly Inspector
+7543	Non-Destructive Testing Specialist
+7543	Textile Quality Inspector
+7543	Motor Vehicle Assembly Inspector
+7543	Vessel Assembly Inspector
+7543	Lumber Grader
+7543	Product Quality Controller
+7543	Aircraft Assembly Inspector
+7543	Control Panel Tester
+7543	Veneer Grader
+7543	Metal Product Quality Control Inspector
+7543	Rolling Stock Assembly Inspector
+7543	Product Grader
+7543	Cigar Inspector
+7544	Pest Management Worker
+7544	Pesticides Sprayer
+8111	Driller
+8111	Underground Heavy Equipment Operator
+8111	Dewatering Technician
+8111	Surface Miner
+8111	Underground Miner
+8112	Stone Planer
+8112	Stone Driller
+8112	Mineral Processing Operator
+8112	Mineral Crushing Operator
+8113	Pipeline Pump Operator
+8113	Derrickhand
+8113	Well-Digger
+8113	Tool Pusher
+8113	Drill Operator
+8113	Tunnel Boring Machine Operator
+8113	Roustabout
+8113	Roughneck
+8113	Oil Rig Motorhand
+8114	Slate Mixer
+8114	Asphalt Plant Operator
+8114	Concrete Products Machine Operator
+8114	Precast Moulder
+8114	Electrolytic Cell Maker
+8114	Block Machine Operator
+8114	Stone Splitter
+8114	Stone Polisher
+8121	Metal Drawing Machine Operator
+8121	Casting Machine Operator
+8121	Metal Annealer
+8121	Metal Rolling Mill Operator
+8121	Wire Weaving Machine Operator
+8121	Extrusion Machine Operator
+8121	Spring Maker
+8122	Coating Machine Operator
+8122	Enameller
+8122	Tumbling Machine Operator
+8122	Abrasive Blasting Operator
+8122	Surface Grinding Machine Operator
+8122	Cylindrical Grinder Operator
+8122	Filing Machine Operator
+8122	Deburring Machine Operator
+8122	Rustproofer
+8122	Electroplating Machine Operator
+8122	Dip Tank Operator
+8122	Anodising Machine Operator
+8131	Nonwoven Filament Machine Operator
+8131	Nitroglycerin Separator Operator
+8131	Lime Kiln Operator
+8131	Granulator Machine Operator
+8131	Pesticide Mixer
+8131	Dry House Attendant
+8131	Gauger
+8131	Lacquer Maker
+8131	Soap Chipper
+8131	Nitrator Operator
+8131	Distillation Operator
+8131	Soap Drier Operator
+8131	Soap Maker
+8131	Plodder Operator
+8131	Chemical Mixer
+8131	Capsule Filling Machine Operator
+8131	Mine Control Room Operator
+8131	Fertiliser Mixer
+8131	Paint Mixer
+8131	Coking Furnace Operator
+8131	Nitroglycerin Neutraliser
+8131	Varnish Maker
+8131	Soap Tower Operator
+8131	Pill Maker Operator
+8131	Fermenter Operator
+8131	Perfume Production Machine Operator
+8131	Wax Bleacher
+8131	Tracer Powder Blender
+8131	Cosmetics Production Machine Operator
+8132	Photographic Developer
+8132	Motion Picture Film Developer
+8141	Sectional Belt Mould Assembler
+8141	Tyre Vulcaniser
+8141	Tyre Builder
+8141	Rubber Cutting Machine Tender
+8141	V-Belt Finisher
+8141	Belt Builder
+8141	V-Belt Builder
+8141	Rubber Products Machine Operator
+8141	Rubber Dipping Machine Operator
+8141	Foam Rubber Mixer
+8141	V-Belt Coverer
+8141	Coagulation Operator
+8142	Fiberglass Laminator
+8142	Insulating Tube Winder
+8142	Plastic Heat Treatment Equipment Operator
+8142	Injection Moulding Operator
+8142	Vacuum Forming Machine Operator
+8142	Fibreglass Machine Operator
+8142	Plastic Furniture Machine Operator
+8142	Filament Winding Operator
+8142	Blow Moulding Machine Operator
+8142	Plastic Rolling Machine Operator
+8142	Cake Press Operator
+8142	Optical Disc Moulding Machine Operator
+8142	Record Press Operator
+8142	Pultrusion Machine Operator
+8142	Compression Moulding Machine Operator
+8143	Tissue Paper Perforating And Rewinding Operator
+8143	Paper Cutter Operator
+8143	Envelope Maker
+8143	Paper Bag Machine Operator
+8143	Absorbent Pad Machine Operator
+8143	Corrugator Operator
+8143	Paperboard Products Assembler
+8151	Spinning Textile Technician
+8151	Twisting Machine Operator
+8151	Man-Made Fiber Spinner
+8151	Yarn Spinner
+8151	Winding Machine Operator
+8151	Spinning Machine Operator
+8151	Cotton Gin Operator
+8152	Knitting Textile Technician
+8152	Textile Machine Operator
+8152	Tufting Operator
+8152	Weaving Machine Supervisor
+8152	Knitting Machine Operator
+8152	Weaving Machine Operator
+8152	Weaving Textile Technician
+8152	Knitting Machine Supervisor
+8153	Protective Clothing Apparel Manufacturer
+8153	Leather Goods Stitching Machine Operator
+8153	Sewing Machine Operator
+8153	Clothing Sample Machinist
+8153	Clothing Alteration Machinist
+8153	Embroidery Machine Operator
+8154	Finishing Textile Technician
+8154	Textile Dyeing Technician
+8154	Textile Dyer
+8154	Textile Finishing Machine Operator
+8155	Tanner
+8155	Colour Sampling Operator
+8155	Leather Production Machine Operator
+8155	Leather Finishing Operator
+8156	Cutting Machine Operator
+8156	Lasting Machine Operator
+8156	Footwear Production Machine Operator
+8156	Automated Cutting Machine Operator
+8156	Leather Goods Machine Operator
+8156	Sole And Heel Operator
+8156	Pre-Stitching Machine Operator
+8156	Footwear Stitching Machine Operator
+8156	Footwear Maintenance Technician
+8156	Leather Goods Maintenance Technician
+8156	Pre-Lasting Operator
+8157	Laundry Worker
+8157	Laundry Ironer
+8157	Laundry Workers Supervisor
+8159	Textile Pattern Making Machine Operator
+8159	Braiding Machine Operator
+8159	Braiding Textile Technician
+8159	Leather Measuring Operator
+8159	Canvas Goods Assembler
+8159	Nonwoven Staple Machine Operator
+8159	Mattress Making Machine Operator
+8159	Nonwoven  Textile Technician
+8160	Hydrogenation Machine Operator
+8160	Pasta Operator
+8160	Coffee Grinder
+8160	Candy Machine Operator
+8160	Blending Plant Operator
+8160	Sauce Production Operator
+8160	Brew House Operator
+8160	Centrifuge Operator
+8160	Chilling Operator
+8160	Sugar Refinery Operator
+8160	Cocoa Press Operator
+8160	Coffee Roaster
+8160	Starch Converting Operator
+8160	Kettle Tender
+8160	Cellar Operator
+8160	Cacao Beans Cleaner
+8160	Baking Operator
+8160	Clarifier
+8160	Blender Operator
+8160	Cacao Bean Roaster
+8160	Honey Extractor
+8160	Carbonation Operator
+8160	Blanching Operator
+8160	Fish Canning Operator
+8160	Fruit-Press Operator
+8160	Malt Kiln Operator
+8160	Extract Mixer Tester
+8160	Distillery Miller
+8160	Beverage Filtration Technician
+8160	Dryer Attendant
+8160	Fish Production Operator
+8160	Prepared Meat Operator
+8160	Dairy Products Manufacturing Worker
+8160	Starch Extraction Operator
+8160	Distillery Worker
+8160	Fat-Purification Worker
+8160	Dairy Processing Operator
+8160	Germination Operator
+8160	Milk Heat Treatment Process Operator
+8160	Animal Feed Operator
+8160	Wine Fermenter
+8160	Yeast Distiller
+8160	Vermouth Manufacturer
+8160	Chocolate Moulding Operator
+8160	Miller
+8160	Fruit And Vegetable Canner
+8160	Cocoa Mill Operator
+8160	Liquor Grinding Mill Operator
+8160	Cider Fermentation Operator
+8160	Food Production Operator
+8160	Cigarette Making Machine Operator
+8160	Refining Machine Operator
+8160	Liquor Blender
+8160	Flour Purifier Operator
+8160	Bulk Filler
+8171	Paper Pulp Moulding Operator
+8171	Bleacher Operator
+8171	Paper Machine Operator
+8171	Paper Stationery Machine Operator
+8171	Froth Flotation Deinking Operator
+8171	Wash Deinking Operator
+8171	Laminating Machine Operator
+8171	Pulp Technician
+8171	Digester Operator
+8172	Table Saw Operator
+8172	Veneer Slicer Operator
+8172	Planer Thicknesser Operator
+8172	Debarker Operator
+8172	Wood Fuel Pelletiser
+8172	Sawmill Operator
+8172	Chipper Operator
+8172	Band Saw Operator
+8172	Crosscut Saw Operator
+8172	Engineered Wood Board Machine Operator
+8172	Wood Router Operator
+8181	Tunnel Kiln Operator
+8181	Auger Press Operator
+8181	Glass Polisher
+8181	Drawing Kiln Operator
+8181	Kiln Firer
+8181	Pottery And Porcelain Caster
+8181	Clay Kiln Burner
+8181	Clay Products Dry Kiln Operator
+8181	Glass Annealer
+8181	Fibre Machine Tender
+8181	Brick And Tile Caster
+8181	Dry Press Operator
+8181	Glass Forming Machine Operator
+8182	Boiler Operator
+8182	Steam Plant Operator
+8183	Cigar Brander
+8183	Heat Sealing Machine Operator
+8183	Cylinder Filler
+8183	Canning And Bottling Line Operator
+8183	Packaging And Filling Machine Operator
+8183	Leather Goods Packing Operator
+8183	Footwear Finishing And Packing Operator
+8189	Edge Bander Operator
+8189	Slitter Operator
+8211	Aircraft Engine Assembler
+8211	Mechatronics Assembler
+8211	Motorcycle Assembler
+8211	Motor Vehicle Parts Assembler
+8211	Rolling Stock Assembler
+8211	Vessel Engine Assembler
+8211	Aircraft Assembler
+8211	Industrial Machinery Assembler
+8211	Motor Vehicle Engine Assembler
+8211	Motor Vehicle Body Assembler
+8211	Motor Vehicle Assembler
+8212	Semiconductor Processor
+8212	Dental Instrument Assembler
+8212	Wave Soldering Machine Operator
+8212	Electrical Equipment Assembler
+8212	Surface-Mount Technology Machine Operator
+8212	Electronic Equipment Assembler
+8212	Battery Assembler
+8212	Photographic Equipment Assembler
+8212	Control Panel Assembler
+8212	Wire Harness Assembler
+8212	Electromechanical Equipment Assembler
+8212	Printed Circuit Board Assembler
+8212	Electrical Cable Assembler
+8212	Electronic Musical Instrument Maker
+8219	Ammunition Assembler
+8219	Metal Furniture Machine Operator
+8219	Medical Device Assembler
+8219	Firework Assembler
+8219	Plastic Products Assembler
+8219	Jewellery Assembler
+8219	Rubber Goods Assembler
+8219	Wood Products Assembler
+8219	Metal Products Assembler
+8219	Furniture Assembler
+8219	Bicycle Assembler
+8311	Train Driver
+8312	Rail Switchperson
+8312	Train Preparer
+8312	Shunter
+8312	Train Dispatcher
+8312	Level Crossing Signalperson
+8321	Motorcycle Delivery Person
+8322	Delivery Driver
+8322	Taxi Driver
+8322	Parking Valet
+8322	Armoured Car Driver
+8322	Patient Transport Services Driver
+8322	Hearse Driver
+8322	Private Chauffeur
+8331	Bus Driver
+8331	Tram Driver
+8331	Trolley Bus Driver
+8332	Fire Service Vehicle Operator
+8332	Aircraft Fuel System Operator
+8332	Refuse Vehicle Driver
+8332	Cargo Vehicle Driver
+8332	Concrete Pump Operator
+8332	Live Animal Transporter
+8332	Moving Truck Driver
+8332	Dangerous Goods Driver
+8341	Land-Based Machinery Supervisor
+8341	Land-Based Machinery Operator
+8341	Forestry Equipment Operator
+8342	Snow-Clearing Worker
+8342	Grader Operator
+8342	Road Roller Operator
+8342	Dredge Operator
+8342	Road Construction Worker
+8342	Pile Driving Hammer Operator
+8342	Surface Mine Plant Operator
+8342	Bulldozer Operator
+8342	Scraper Operator
+8342	Excavator Operator
+8343	Tower Crane Operator
+8343	Production Plant Crane Operator
+8343	Mobile Crane Operator
+8343	Automated Cable Vehicle Controller
+8343	Container Crane Operator
+8344	Forklift Operator
+8350	Fisheries Deckhand
+8350	Boatswain
+8350	Ordinary Seaman
+8350	Sailor
+8350	Engine Minder
+8350	Matrose
+8350	Decksman
+9111	Domestic Cleaner
+9112	Toilet Attendant
+9112	Furniture Cleaner
+9112	Building Cleaner
+9112	Aircraft Groomer
+9112	Room Attendant
+9112	Train Cleaner
+9121	Linen Room Attendant
+9121	Wearing Apparel Presser
+9122	Vehicle Cleaner
+9123	Window Cleaner
+9129	Sewerage Cleaner
+9129	Swimming Facility Attendant
+9129	Drapery And Carpet Cleaner
+9211	Fruit And Vegetable Picker
+9211	Vineyard Worker
+9212	Livestock Worker
+9212	Equine Worker
+9212	Catcher
+9212	Groom
+9213	Crop Production Worker
+9214	Garden Labourer
+9215	Forest Worker
+9216	On Foot Aquatic Resources Collector
+9216	Aquaculture Cage Mooring Worker
+9216	Water-Based Aquaculture Worker
+9216	Aquaculture Harvesting Worker
+9311	Mining Assistant
+9312	Waterway Construction Labourer
+9312	Civil Engineering Worker
+9312	Road Sign Installer
+9312	Road Marker
+9312	Rail Layer
+9312	Road Maintenance Worker
+9312	Drainage Worker
+9313	Building Construction Worker
+9321	Clothing Finisher
+9321	Hand Packer
+9329	Factory Hand
+9329	Wood Caulker
+9331	Bicycle Courier
+9332	Carriage Driver
+9333	Airport Baggage Handler
+9333	Materials Handler
+9333	Rail Intermodal Equipment Operator
+9333	Stevedore
+9333	Warehouse Worker
+9333	Mover
+9333	Warehouse Order Picker
+9333	Stevedore Superintendent
+9333	Distribution Centre Dispatcher
+9334	Shelf Filler
+9411	Quick Service Restaurant Crew Member
+9411	Pizzaiolo
+9412	Kitchen Assistant
+9412	Kitchen Porter
+9510	Leaflet Distributor
+9520	Hawker
+9611	Refuse Collector
+9612	Recycling Worker
+9612	Sorter Labourer
+9613	Street Sweeper
+9621	Hotel Porter
+9621	Doorman/Doorwoman
+9622	Handyman
+9623	Meter Reader
+9623	Vending Machine Operator
+9629	Locker Room Attendant
+9629	Cloak Room Attendant
+9629	Attraction Operator
+9629	Usher
+9629	Advertising Installer
+9629	Laundromat Attendant
+9629	Amusement And Recreation Attendant

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a13c037-71cc-403f-b7ef-b8a292d92a3d" name="Default Changelist" comment="" />
+    <list default="true" id="4a13c037-71cc-403f-b7ef-b8a292d92a3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esco_viz.html" beforeDir="false" afterPath="$PROJECT_DIR$/Esco_viz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Onet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnetViz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Read.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/bc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/job_list_onet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/parse_esco.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/job_list_esco.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/parse_o.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/major_minor_onet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/viz.json" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +28,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Esco.java">
+        <entry file="file://$PROJECT_DIR$/src/Readfile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="108" column="41" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="41" />
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,52 +40,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/out/isco_08.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/OnetViz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="147" column="37" lean-forward="true" selection-start-line="147" selection-start-column="7" selection-end-line="147" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#5106#5107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Esco.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="140" column="43" lean-forward="true" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+                <element signature="e#1095#1096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Onet.java">
+        <entry file="file://$PROJECT_DIR$/src/out/esco_viz.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="849">
-              <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3676#3677#0" expanded="true" />
-                <element signature="e#3718#3719#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/out/viz.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" selection-start-column="42" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/bc.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/out/onet_groups.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Readfile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="285">
+              <caret column="2424" selection-end-column="285772" />
             </state>
           </provider>
         </entry>
@@ -91,29 +89,40 @@
       <find>parse</find>
       <find>readf</find>
       <find>read</find>
-      <find>onet</find>
       <find>\/</find>
+      <find>System</find>
+      <find>getLeve</find>
+      <find>out</find>
+      <find>l3</find>
+      <find>SOC</find>
+      <find>onet</find>
+      <find>replace</find>
+      <find>esco</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Data.java" />
-        <option value="$PROJECT_DIR$/src/Read.java" />
         <option value="$PROJECT_DIR$/src/Entry.java" />
         <option value="$PROJECT_DIR$/src/data.json" />
         <option value="$PROJECT_DIR$/src/onet_groups.txt" />
         <option value="$PROJECT_DIR$/src/Readfile.java" />
-        <option value="$PROJECT_DIR$/src/Esco.java" />
         <option value="$PROJECT_DIR$/src/out/viz.json" />
         <option value="$PROJECT_DIR$/src/Onet.java" />
+        <option value="$PROJECT_DIR$/src/Read.java" />
+        <option value="$PROJECT_DIR$/src/OnetViz.java" />
+        <option value="$PROJECT_DIR$/src/Esco.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
+    <option name="x" value="24" />
     <option name="y" value="23" />
-    <option name="width" value="1400" />
+    <option name="width" value="1440" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectView">
@@ -122,32 +131,27 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Fun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fun" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHierarchyViz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobHierarchyViz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Fun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fun" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fun" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Fun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fun" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHierarchyViz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobHierarchyViz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Fun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Fun" type="462c0819:PsiDirectoryNode" />
+              <item name="JobHierarchyViz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobHierarchyViz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JobHierarchyViz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JobHierarchyViz" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -155,9 +159,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -182,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Onet">
+  <component name="RunManager" selected="Application.Esco">
     <configuration name="Esco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Esco" />
       <module name="JobHierarchyViz" />
@@ -190,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Onet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Onet" />
+    <configuration name="OnetViz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OnetViz" />
       <module name="JobHierarchyViz" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -206,8 +212,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Onet" />
         <item itemvalue="Application.Esco" />
+        <item itemvalue="Application.OnetViz" />
         <item itemvalue="Application.Read" />
       </list>
     </recent_temporary>
@@ -227,9 +233,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2732475" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49930653" visible="true" weight="0.28755364" />
+      <window_info id="Structure" order="1" sideWeight="0.5006935" side_tool="true" visible="true" weight="0.28755364" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -237,8 +244,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871014" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25797504" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25797504" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -256,33 +263,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Data.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/on.txt" />
     <entry file="file://$PROJECT_DIR$/src/Book1.txt" />
     <entry file="file://$PROJECT_DIR$/src/bg.txt" />
     <entry file="file://$PROJECT_DIR$/src/mapped.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Read.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="106" column="42" selection-start-line="106" selection-start-column="42" selection-end-line="106" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JobHierarchyViz.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -310,50 +295,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test.json" />
-    <entry file="file://$PROJECT_DIR$/src/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data.json" />
     <entry file="file://$PROJECT_DIR$/src/parse_esco.txt" />
     <entry file="file://$PROJECT_DIR$/src/parse_onet.txt" />
     <entry file="file://$PROJECT_DIR$/src/onet_groups.txt" />
     <entry file="file://$PROJECT_DIR$/src/isco_08.txt" />
     <entry file="file://$PROJECT_DIR$/src/parse_o.txt" />
-    <entry file="file://$PROJECT_DIR$/src/data/parse_o.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-547">
-          <caret line="51" column="7" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/out/onet_groups_2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esco.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="108" column="41" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/out/isco_08.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/out/viz.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="42" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/bc.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/out/onet_groups.txt">
@@ -363,22 +314,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Readfile.java">
+    <entry file="file://$PROJECT_DIR$/Esco_viz.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="105">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Onet.java">
+    <entry file="file://$PROJECT_DIR$/src/data/job_list_onet.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="849">
-          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        <state relative-caret-position="-6270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Read.java" />
+    <entry file="file://$PROJECT_DIR$/src/Data.java" />
+    <entry file="file://$PROJECT_DIR$/src/data/major_minor_onet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="7" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/viz.json" />
+    <entry file="file://$PROJECT_DIR$/src/Readfile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3676#3677#0" expanded="true" />
-            <element signature="e#3718#3719#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/onet_viz.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret column="41890" selection-end-column="182841" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/esco_job_title.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OnetViz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="147" column="37" lean-forward="true" selection-start-line="147" selection-start-column="7" selection-end-line="147" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5106#5107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Esco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="140" column="43" lean-forward="true" selection-start-line="140" selection-start-column="43" selection-end-line="140" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/out/esco_viz.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret column="2424" selection-end-column="285772" />
         </state>
       </provider>
     </entry>
